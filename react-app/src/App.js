@@ -1,6 +1,12 @@
-import './App.css';
+import React, { Component } from 'react';
+import Template from './views/Template';
 
-function App() {
+class App extends Component {
+  render() {    
+    return (
+		<Template/>
+    );
+  }
 }
 
 export default App;
