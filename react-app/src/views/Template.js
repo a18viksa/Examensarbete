@@ -43,9 +43,9 @@ class Template extends Component {
 									</ListGroup>
 								</ListGroup>
 								
-								
 							</ListGroup>
 						</Nav>
+					
 						
 						<Col xl={{ span: 7, offset: 3 }} lg={{ span: 8, offset: 3 }} xs={{ span: 8, offset: 2 }}>
 							<Container>
