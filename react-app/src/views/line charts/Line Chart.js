@@ -4,6 +4,7 @@ var CanvasJSChart = CanvasJSReact.CanvasJSChart;
  
 var dataPoints =[];
 var dataPoints1 =[];
+var dataPoints2 =[];
 class LineChart extends Component {
 	render() {
 		const options = {
@@ -15,11 +16,11 @@ class LineChart extends Component {
 			axisY: {
 				title: "Stock Price",
 				includeZero: false,
-				suffix: "$"
+				labelFontSize: 20,
 			},
 			axisX: {
 				title: "Datapoints",
-				interval: 1
+				interval: 200,
 			},
 
 			legend: {
@@ -35,17 +36,25 @@ class LineChart extends Component {
 			data: [{
 				type: "line",
 				showInLegend: true,
-				name: "Faceboop",
+				name: "fb",
 				yValueFormatString: "$####.00",
 				dataPoints: dataPoints,
-			}],
-			data: [{
+			},
+			{
 				type: "line",
 				showInLegend: true,
-				name: "Shopifo",
+				name: "shop",
 				yValueFormatString: "$####.00",
 				dataPoints: dataPoints1,
-			}],
+			},
+			{
+				type: "line",
+				showInLegend: true,
+				name: "amzn",
+				yValueFormatString: "$####.00",
+				dataPoints: dataPoints2,
+			}
+		]
 		}
 		
 		return (
@@ -54,6 +63,7 @@ class LineChart extends Component {
 			<CanvasJSChart options = {options} 
 				/* onRef={ref => this.chart = ref} */
 			/>
+			<button onClick={this.onItemClick}>Component 1</button>
 		</div>
 		);
 	}
@@ -69,12 +79,12 @@ class LineChart extends Component {
 					x: data[i].x,
 					y: data[i].y
 				});
+				
 			}
+			
 			chart.render();
 		});
-	}
-	componentDidMount(){
-		var chart = this.chart;
+
 		fetch('shop.json')
 		.then(function(response) {
 			return response.json();
@@ -85,11 +95,31 @@ class LineChart extends Component {
 					x: data[i].x,
 					y: data[i].y
 				});
+				
 			}
+			
 			chart.render();
 		});
+
+		fetch('amzn.json')
+		.then(function(response) {
+			return response.json();
+		})
+		.then(function(data) {
+			for (var i = 0; i < data.length; i++) {
+				dataPoints2.push({
+					x: data[i].x,
+					y: data[i].y
+				});
+				
+			}
+			
+			chart.render();
+		});
+
+		
 	}
 
 }
 
-export default LineChart;                           
+export default LineChart;
