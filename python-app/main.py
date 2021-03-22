@@ -2,6 +2,8 @@ import plotly_express as px
 import pandas as pd
 import streamlit as st
 
+st.button('Render')
+
 stock_data = pd.read_csv("data/data.csv")
 print(stock_data.head())
 
