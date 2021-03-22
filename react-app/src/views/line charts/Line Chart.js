@@ -61,9 +61,7 @@ class LineChart extends Component {
 		<div>
 			<h1>React Line Chart</h1>
 			<CanvasJSChart options = {options} 
-				/* onRef={ref => this.chart = ref} */
 			/>
-			<button onClick={this.onItemClick}>Component 1</button>
 		</div>
 		);
 	}
@@ -79,9 +77,7 @@ class LineChart extends Component {
 					x: data[i].x,
 					y: data[i].y
 				});
-				
 			}
-			
 			chart.render();
 		});
 
@@ -95,9 +91,7 @@ class LineChart extends Component {
 					x: data[i].x,
 					y: data[i].y
 				});
-				
 			}
-			
 			chart.render();
 		});
 
@@ -111,9 +105,7 @@ class LineChart extends Component {
 					x: data[i].x,
 					y: data[i].y
 				});
-				
 			}
-			
 			chart.render();
 		});
 
