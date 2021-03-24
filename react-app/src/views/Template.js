@@ -23,7 +23,7 @@ class Template extends Component {
   render() { 
 
 	function refreshPage() {
-		window.location.reload(false);
+		window.location.reload();
 	  }
 
     return (
@@ -35,7 +35,7 @@ class Template extends Component {
 					<Row>
 								<ListGroup>
 									<ListGroup id="lineCharts">
-										<ListGroup.Item> <NavLink to="/line-chart"><Button onClick={refreshPage} variant="contained" color="secondary">Render</Button></NavLink></ListGroup.Item>
+									<ListGroup.Item><NavLink to="/line-chart"><Button variant="contained" color="primary">Line Chart</Button></NavLink> <Button onClick={refreshPage} variant="contained" color="secondary">Render</Button></ListGroup.Item>
 									</ListGroup>
 								</ListGroup>
 							
