@@ -6,25 +6,43 @@
         <p id="stonks"></p>
 
         <script>
+            var date = new Date(2000, 01, 01);
             function createStockData() {
-                // set number of datapoints to generate
                 var maxDataPoints = 10;
+                // set number of datapoints to generate
+                var startValue = 100;
                 // change startValue of every stock for randomness.
                 // ex. goog = 348, aapl = 145 etc.
-                var startValue = 157;
-                var text = "";
-                var data = [];
-                var dataSeries = "";
                 for (var i = 0; i < maxDataPoints; i++) {
-                    // random function to stop stock value from dropping/gaining to much on single day 
+                    var text = "";
+                    var data = [];
+                    var day = date.getDate() + 0;
+                    var month = date.getMonth() + 1;
+                    var year = date.getFullYear();
+
+                    if (day < 10) {
+                        day = "0" + day;
+                    }
+                    if (month < 10) {
+                        month = "0" + month;
+                    }
+                    // random function to stop stock value from dropping/gaining to much on single day
                     startValue += Math.round(Math.random() * 20 - 10);
                     data.push({ startValue });
-                    // change company name to ticker ex. "aapl"
+
                     text +=
-                        i + "," + startValue + "," + "company name" + "<br>";
+                        year +
+                        "-" +
+                        month +
+                        "-" +
+                        day +
+                        "," +
+                        startValue +
+                        "<br>";
+
+                    date.setDate(date.getDate() + 1);
+                    document.getElementById("stonks").innerHTML += text;
                 }
-                data.push(dataSeries);
-                document.getElementById("stonks").innerHTML = text;
             }
         </script>
     </body>
