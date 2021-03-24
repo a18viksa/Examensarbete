@@ -72,7 +72,7 @@ class LineChart extends Component {
       animationEnabled: true,
 	  zoomEnabled: true,
 	  title:{
-        text:"React Line Chart"
+        text:"CanvasJS Line Chart"
       },
       theme: "light2",
 	  legend: {
