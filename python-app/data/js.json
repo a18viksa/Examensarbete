@@ -1,0 +1,10002 @@
+[
+  {
+    "date": "2018-02-01",
+    "open": 204,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-02-02",
+    "open": 194,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-02-03",
+    "open": 199,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-02-04",
+    "open": 199,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-02-05",
+    "open": 200,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-02-06",
+    "open": 200,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-02-07",
+    "open": 193,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-02-08",
+    "open": 197,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-02-09",
+    "open": 188,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-02-10",
+    "open": 198,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-02-11",
+    "open": 196,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-02-12",
+    "open": 193,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-02-13",
+    "open": 190,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-02-14",
+    "open": 194,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-02-15",
+    "open": 198,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-02-16",
+    "open": 203,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-02-17",
+    "open": 198,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-02-18",
+    "open": 193,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-02-19",
+    "open": 186,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-02-20",
+    "open": 192,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-02-21",
+    "open": 199,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-02-22",
+    "open": 198,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-02-23",
+    "open": 206,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-02-24",
+    "open": 210,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-02-25",
+    "open": 206,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-02-26",
+    "open": 203,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-02-27",
+    "open": 213,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-02-28",
+    "open": 220,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-03-01",
+    "open": 216,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-03-02",
+    "open": 221,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-03-03",
+    "open": 221,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-03-04",
+    "open": 229,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-03-05",
+    "open": 224,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-03-06",
+    "open": 223,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-03-07",
+    "open": 229,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-03-08",
+    "open": 219,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-03-09",
+    "open": 225,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-03-10",
+    "open": 216,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-03-11",
+    "open": 215,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-03-12",
+    "open": 215,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-03-13",
+    "open": 218,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-03-14",
+    "open": 226,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-03-15",
+    "open": 230,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-03-16",
+    "open": 234,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-03-17",
+    "open": 234,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-03-18",
+    "open": 243,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-03-19",
+    "open": 237,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-03-20",
+    "open": 240,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-03-21",
+    "open": 244,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-03-22",
+    "open": 245,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-03-23",
+    "open": 243,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-03-24",
+    "open": 233,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-03-25",
+    "open": 232,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-03-26",
+    "open": 236,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-03-27",
+    "open": 246,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-03-28",
+    "open": 255,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-03-29",
+    "open": 250,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-03-30",
+    "open": 254,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-03-31",
+    "open": 256,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-04-01",
+    "open": 263,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-04-02",
+    "open": 255,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-04-03",
+    "open": 265,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-04-04",
+    "open": 262,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-04-05",
+    "open": 266,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-04-06",
+    "open": 269,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-04-07",
+    "open": 262,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-04-08",
+    "open": 265,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-04-09",
+    "open": 274,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-04-10",
+    "open": 278,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-04-11",
+    "open": 278,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-04-12",
+    "open": 268,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-04-13",
+    "open": 277,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-04-14",
+    "open": 268,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-04-15",
+    "open": 271,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-04-16",
+    "open": 267,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-04-17",
+    "open": 275,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-04-18",
+    "open": 279,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-04-19",
+    "open": 277,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-04-20",
+    "open": 277,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-04-21",
+    "open": 284,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-04-22",
+    "open": 289,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-04-23",
+    "open": 281,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-04-24",
+    "open": 280,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-04-25",
+    "open": 271,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-04-26",
+    "open": 280,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-04-27",
+    "open": 273,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-04-28",
+    "open": 277,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-04-29",
+    "open": 272,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-04-30",
+    "open": 263,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-05-01",
+    "open": 257,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-05-02",
+    "open": 249,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-05-03",
+    "open": 241,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-05-04",
+    "open": 243,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-05-05",
+    "open": 244,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-05-06",
+    "open": 254,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-05-07",
+    "open": 253,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-05-08",
+    "open": 258,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-05-09",
+    "open": 255,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-05-10",
+    "open": 255,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-05-11",
+    "open": 255,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-05-12",
+    "open": 255,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-05-13",
+    "open": 250,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-05-14",
+    "open": 248,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-05-15",
+    "open": 247,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-05-16",
+    "open": 253,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-05-17",
+    "open": 246,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-05-18",
+    "open": 239,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-05-19",
+    "open": 234,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-05-20",
+    "open": 226,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-05-21",
+    "open": 218,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-05-22",
+    "open": 220,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-05-23",
+    "open": 212,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-05-24",
+    "open": 216,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-05-25",
+    "open": 214,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-05-26",
+    "open": 208,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-05-27",
+    "open": 199,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-05-28",
+    "open": 205,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-05-29",
+    "open": 208,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-05-30",
+    "open": 201,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-05-31",
+    "open": 204,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-06-01",
+    "open": 201,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-06-02",
+    "open": 203,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-06-03",
+    "open": 201,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-06-04",
+    "open": 204,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-06-05",
+    "open": 209,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-06-06",
+    "open": 212,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-06-07",
+    "open": 213,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-06-08",
+    "open": 209,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-06-09",
+    "open": 217,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-06-10",
+    "open": 208,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-06-11",
+    "open": 199,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-06-12",
+    "open": 200,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-06-13",
+    "open": 202,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-06-14",
+    "open": 210,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-06-15",
+    "open": 209,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-06-16",
+    "open": 200,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-06-17",
+    "open": 190,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-06-18",
+    "open": 183,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-06-19",
+    "open": 185,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-06-20",
+    "open": 178,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-06-21",
+    "open": 181,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-06-22",
+    "open": 175,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-06-23",
+    "open": 166,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-06-24",
+    "open": 170,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-06-25",
+    "open": 173,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-06-26",
+    "open": 169,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-06-27",
+    "open": 179,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-06-28",
+    "open": 179,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-06-29",
+    "open": 188,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-06-30",
+    "open": 187,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-07-01",
+    "open": 191,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-07-02",
+    "open": 192,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-07-03",
+    "open": 185,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-07-04",
+    "open": 178,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-07-05",
+    "open": 184,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-07-06",
+    "open": 192,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-07-07",
+    "open": 183,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-07-08",
+    "open": 178,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-07-09",
+    "open": 169,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-07-10",
+    "open": 177,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-07-11",
+    "open": 175,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-07-12",
+    "open": 177,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-07-13",
+    "open": 185,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-07-14",
+    "open": 184,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-07-15",
+    "open": 190,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-07-16",
+    "open": 184,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-07-17",
+    "open": 193,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-07-18",
+    "open": 197,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-07-19",
+    "open": 193,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-07-20",
+    "open": 194,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-07-21",
+    "open": 200,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-07-22",
+    "open": 198,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-07-23",
+    "open": 196,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-07-24",
+    "open": 194,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-07-25",
+    "open": 194,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-07-26",
+    "open": 199,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-07-27",
+    "open": 194,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-07-28",
+    "open": 185,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-07-29",
+    "open": 195,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-07-30",
+    "open": 188,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-07-31",
+    "open": 180,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-08-01",
+    "open": 190,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-08-02",
+    "open": 184,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-08-03",
+    "open": 194,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-08-04",
+    "open": 197,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-08-05",
+    "open": 200,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-08-06",
+    "open": 191,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-08-07",
+    "open": 198,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-08-08",
+    "open": 191,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-08-09",
+    "open": 188,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-08-10",
+    "open": 180,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-08-11",
+    "open": 177,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-08-12",
+    "open": 185,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-08-13",
+    "open": 184,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-08-14",
+    "open": 181,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-08-15",
+    "open": 183,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-08-16",
+    "open": 184,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-08-17",
+    "open": 187,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-08-18",
+    "open": 182,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-08-19",
+    "open": 190,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-08-20",
+    "open": 195,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-08-21",
+    "open": 186,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-08-22",
+    "open": 192,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-08-23",
+    "open": 201,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-08-24",
+    "open": 191,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-08-25",
+    "open": 185,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-08-26",
+    "open": 180,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-08-27",
+    "open": 180,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-08-28",
+    "open": 178,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-08-29",
+    "open": 178,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-08-30",
+    "open": 173,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-08-31",
+    "open": 177,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-09-01",
+    "open": 173,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-09-02",
+    "open": 167,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-09-03",
+    "open": 165,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-09-04",
+    "open": 155,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-09-05",
+    "open": 151,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-09-06",
+    "open": 155,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-09-07",
+    "open": 153,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-09-08",
+    "open": 157,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-09-09",
+    "open": 151,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-09-10",
+    "open": 158,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-09-11",
+    "open": 159,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-09-12",
+    "open": 168,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-09-13",
+    "open": 168,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-09-14",
+    "open": 178,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-09-15",
+    "open": 176,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-09-16",
+    "open": 182,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-09-17",
+    "open": 183,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-09-18",
+    "open": 177,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-09-19",
+    "open": 173,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-09-20",
+    "open": 175,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-09-21",
+    "open": 169,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-09-22",
+    "open": 160,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-09-23",
+    "open": 150,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-09-24",
+    "open": 149,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-09-25",
+    "open": 143,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-09-26",
+    "open": 133,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-09-27",
+    "open": 142,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-09-28",
+    "open": 135,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-09-29",
+    "open": 142,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-09-30",
+    "open": 148,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-10-01",
+    "open": 150,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-10-02",
+    "open": 152,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-10-03",
+    "open": 148,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-10-04",
+    "open": 148,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-10-05",
+    "open": 145,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-10-06",
+    "open": 143,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-10-07",
+    "open": 146,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-10-08",
+    "open": 138,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-10-09",
+    "open": 143,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-10-10",
+    "open": 133,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-10-11",
+    "open": 130,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-10-12",
+    "open": 138,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-10-13",
+    "open": 131,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-10-14",
+    "open": 141,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-10-15",
+    "open": 136,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-10-16",
+    "open": 130,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-10-17",
+    "open": 131,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-10-18",
+    "open": 132,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-10-19",
+    "open": 137,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-10-20",
+    "open": 129,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-10-21",
+    "open": 133,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-10-22",
+    "open": 124,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-10-23",
+    "open": 124,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-10-24",
+    "open": 132,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-10-25",
+    "open": 134,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-10-26",
+    "open": 129,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-10-27",
+    "open": 131,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-10-28",
+    "open": 123,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-10-29",
+    "open": 121,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-10-30",
+    "open": 119,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-10-31",
+    "open": 113,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-11-01",
+    "open": 112,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-11-02",
+    "open": 112,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-11-03",
+    "open": 108,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-11-04",
+    "open": 109,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-11-05",
+    "open": 119,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-11-06",
+    "open": 127,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-11-07",
+    "open": 126,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-11-08",
+    "open": 134,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-11-09",
+    "open": 141,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-11-10",
+    "open": 151,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-11-11",
+    "open": 159,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-11-12",
+    "open": 168,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-11-13",
+    "open": 162,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-11-14",
+    "open": 155,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-11-15",
+    "open": 151,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-11-16",
+    "open": 149,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-11-17",
+    "open": 150,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-11-18",
+    "open": 153,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-11-19",
+    "open": 150,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-11-20",
+    "open": 149,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-11-21",
+    "open": 142,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-11-22",
+    "open": 133,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-11-23",
+    "open": 128,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-11-24",
+    "open": 119,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-11-25",
+    "open": 117,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-11-26",
+    "open": 109,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-11-27",
+    "open": 102,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-11-28",
+    "open": 101,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-11-29",
+    "open": 104,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-11-30",
+    "open": 112,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-12-01",
+    "open": 106,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-12-02",
+    "open": 116,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-12-03",
+    "open": 123,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-12-04",
+    "open": 124,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-12-05",
+    "open": 116,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-12-06",
+    "open": 112,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-12-07",
+    "open": 110,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-12-08",
+    "open": 118,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-12-09",
+    "open": 113,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-12-10",
+    "open": 120,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-12-11",
+    "open": 117,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-12-12",
+    "open": 116,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-12-13",
+    "open": 122,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-12-14",
+    "open": 121,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-12-15",
+    "open": 124,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-12-16",
+    "open": 114,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-12-17",
+    "open": 110,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-12-18",
+    "open": 118,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-12-19",
+    "open": 120,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-12-20",
+    "open": 114,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-12-21",
+    "open": 121,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-12-22",
+    "open": 125,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-12-23",
+    "open": 116,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-12-24",
+    "open": 126,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-12-25",
+    "open": 120,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-12-26",
+    "open": 121,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-12-27",
+    "open": 121,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-12-28",
+    "open": 115,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-12-29",
+    "open": 110,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-12-30",
+    "open": 114,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-12-31",
+    "open": 108,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-01-01",
+    "open": 117,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-01-02",
+    "open": 114,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-01-03",
+    "open": 106,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-01-04",
+    "open": 116,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-01-05",
+    "open": 121,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-01-06",
+    "open": 113,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-01-07",
+    "open": 105,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-01-08",
+    "open": 102,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-01-09",
+    "open": 104,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-01-10",
+    "open": 107,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-01-11",
+    "open": 105,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-01-12",
+    "open": 95,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-01-13",
+    "open": 104,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-01-14",
+    "open": 95,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-01-15",
+    "open": 94,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-01-16",
+    "open": 100,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-01-17",
+    "open": 107,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-01-18",
+    "open": 112,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-01-19",
+    "open": 111,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-01-20",
+    "open": 110,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-01-21",
+    "open": 111,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-01-22",
+    "open": 103,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-01-23",
+    "open": 106,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-01-24",
+    "open": 96,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-01-25",
+    "open": 105,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-01-26",
+    "open": 102,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-01-27",
+    "open": 95,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-01-28",
+    "open": 96,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-01-29",
+    "open": 94,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-01-30",
+    "open": 99,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-01-31",
+    "open": 91,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-02-01",
+    "open": 87,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-02-02",
+    "open": 88,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-02-03",
+    "open": 91,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-02-04",
+    "open": 99,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-02-05",
+    "open": 108,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-02-06",
+    "open": 99,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-02-07",
+    "open": 108,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-02-08",
+    "open": 111,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-02-09",
+    "open": 109,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-02-10",
+    "open": 107,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-02-11",
+    "open": 113,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-02-12",
+    "open": 119,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-02-13",
+    "open": 127,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-02-14",
+    "open": 133,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-02-15",
+    "open": 125,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-02-16",
+    "open": 124,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-02-17",
+    "open": 119,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-02-18",
+    "open": 122,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-02-19",
+    "open": 127,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-02-20",
+    "open": 127,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-02-21",
+    "open": 131,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-02-22",
+    "open": 130,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-02-23",
+    "open": 132,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-02-24",
+    "open": 140,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-02-25",
+    "open": 147,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-02-26",
+    "open": 149,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-02-27",
+    "open": 143,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-02-28",
+    "open": 150,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-03-01",
+    "open": 143,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-03-02",
+    "open": 147,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-03-03",
+    "open": 148,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-03-04",
+    "open": 158,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-03-05",
+    "open": 157,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-03-06",
+    "open": 162,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-03-07",
+    "open": 154,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-03-08",
+    "open": 152,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-03-09",
+    "open": 153,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-03-10",
+    "open": 147,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-03-11",
+    "open": 139,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-03-12",
+    "open": 144,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-03-13",
+    "open": 135,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-03-14",
+    "open": 144,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-03-15",
+    "open": 148,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-03-16",
+    "open": 152,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-03-17",
+    "open": 153,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-03-18",
+    "open": 158,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-03-19",
+    "open": 163,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-03-20",
+    "open": 156,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-03-21",
+    "open": 157,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-03-22",
+    "open": 155,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-03-23",
+    "open": 147,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-03-24",
+    "open": 156,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-03-25",
+    "open": 163,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-03-26",
+    "open": 169,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-03-27",
+    "open": 162,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-03-28",
+    "open": 159,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-03-29",
+    "open": 168,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-03-30",
+    "open": 169,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-03-31",
+    "open": 167,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-04-01",
+    "open": 171,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-04-02",
+    "open": 165,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-04-03",
+    "open": 163,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-04-04",
+    "open": 168,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-04-05",
+    "open": 161,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-04-06",
+    "open": 166,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-04-07",
+    "open": 173,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-04-08",
+    "open": 171,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-04-09",
+    "open": 170,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-04-10",
+    "open": 179,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-04-11",
+    "open": 188,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-04-12",
+    "open": 197,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-04-13",
+    "open": 204,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-04-14",
+    "open": 203,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-04-15",
+    "open": 201,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-04-16",
+    "open": 205,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-04-17",
+    "open": 214,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-04-18",
+    "open": 217,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-04-19",
+    "open": 224,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-04-20",
+    "open": 231,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-04-21",
+    "open": 223,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-04-22",
+    "open": 217,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-04-23",
+    "open": 226,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-04-24",
+    "open": 233,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-04-25",
+    "open": 224,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-04-26",
+    "open": 218,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-04-27",
+    "open": 225,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-04-28",
+    "open": 219,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-04-29",
+    "open": 215,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-04-30",
+    "open": 213,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-05-01",
+    "open": 222,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-05-02",
+    "open": 214,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-05-03",
+    "open": 210,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-05-04",
+    "open": 206,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-05-05",
+    "open": 203,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-05-06",
+    "open": 194,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-05-07",
+    "open": 191,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-05-08",
+    "open": 200,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-05-09",
+    "open": 199,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-05-10",
+    "open": 208,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-05-11",
+    "open": 206,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-05-12",
+    "open": 201,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-05-13",
+    "open": 203,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-05-14",
+    "open": 212,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-05-15",
+    "open": 211,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-05-16",
+    "open": 201,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-05-17",
+    "open": 209,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-05-18",
+    "open": 202,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-05-19",
+    "open": 206,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-05-20",
+    "open": 215,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-05-21",
+    "open": 207,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-05-22",
+    "open": 206,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-05-23",
+    "open": 201,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-05-24",
+    "open": 210,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-05-25",
+    "open": 218,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-05-26",
+    "open": 209,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-05-27",
+    "open": 212,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-05-28",
+    "open": 215,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-05-29",
+    "open": 216,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-05-30",
+    "open": 214,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-05-31",
+    "open": 218,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-06-01",
+    "open": 223,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-06-02",
+    "open": 220,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-06-03",
+    "open": 217,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-06-04",
+    "open": 218,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-06-05",
+    "open": 212,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-06-06",
+    "open": 219,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-06-07",
+    "open": 215,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-06-08",
+    "open": 218,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-06-09",
+    "open": 220,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-06-10",
+    "open": 230,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-06-11",
+    "open": 222,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-06-12",
+    "open": 224,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-06-13",
+    "open": 215,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-06-14",
+    "open": 218,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-06-15",
+    "open": 219,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-06-16",
+    "open": 211,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-06-17",
+    "open": 211,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-06-18",
+    "open": 202,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-06-19",
+    "open": 195,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-06-20",
+    "open": 194,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-06-21",
+    "open": 197,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-06-22",
+    "open": 198,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-06-23",
+    "open": 207,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-06-24",
+    "open": 199,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-06-25",
+    "open": 204,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-06-26",
+    "open": 198,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-06-27",
+    "open": 206,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-06-28",
+    "open": 199,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-06-29",
+    "open": 198,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-06-30",
+    "open": 200,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-07-01",
+    "open": 206,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-07-02",
+    "open": 207,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-07-03",
+    "open": 209,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-07-04",
+    "open": 209,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-07-05",
+    "open": 207,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-07-06",
+    "open": 207,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-07-07",
+    "open": 199,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-07-08",
+    "open": 193,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-07-09",
+    "open": 188,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-07-10",
+    "open": 184,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-07-11",
+    "open": 187,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-07-12",
+    "open": 192,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-07-13",
+    "open": 193,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-07-14",
+    "open": 190,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-07-15",
+    "open": 182,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-07-16",
+    "open": 179,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-07-17",
+    "open": 172,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-07-18",
+    "open": 177,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-07-19",
+    "open": 180,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-07-20",
+    "open": 184,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-07-21",
+    "open": 181,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-07-22",
+    "open": 173,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-07-23",
+    "open": 168,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-07-24",
+    "open": 164,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-07-25",
+    "open": 157,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-07-26",
+    "open": 155,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-07-27",
+    "open": 154,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-07-28",
+    "open": 148,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-07-29",
+    "open": 153,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-07-30",
+    "open": 152,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-07-31",
+    "open": 148,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-08-01",
+    "open": 150,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-08-02",
+    "open": 144,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-08-03",
+    "open": 144,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-08-04",
+    "open": 149,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-08-05",
+    "open": 147,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-08-06",
+    "open": 139,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-08-07",
+    "open": 134,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-08-08",
+    "open": 134,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-08-09",
+    "open": 131,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-08-10",
+    "open": 134,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-08-11",
+    "open": 129,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-08-12",
+    "open": 119,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-08-13",
+    "open": 117,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-08-14",
+    "open": 112,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-08-15",
+    "open": 102,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-08-16",
+    "open": 92,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-08-17",
+    "open": 85,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-08-18",
+    "open": 92,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-08-19",
+    "open": 93,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-08-20",
+    "open": 102,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-08-21",
+    "open": 100,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-08-22",
+    "open": 110,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-08-23",
+    "open": 112,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-08-24",
+    "open": 121,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-08-25",
+    "open": 126,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-08-26",
+    "open": 128,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-08-27",
+    "open": 123,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-08-28",
+    "open": 119,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-08-29",
+    "open": 125,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-08-30",
+    "open": 121,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-08-31",
+    "open": 113,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-09-01",
+    "open": 120,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-09-02",
+    "open": 118,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-09-03",
+    "open": 121,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-09-04",
+    "open": 118,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-09-05",
+    "open": 115,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-09-06",
+    "open": 120,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-09-07",
+    "open": 128,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-09-08",
+    "open": 129,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-09-09",
+    "open": 137,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-09-10",
+    "open": 145,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-09-11",
+    "open": 151,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-09-12",
+    "open": 153,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-09-13",
+    "open": 144,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-09-14",
+    "open": 136,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-09-15",
+    "open": 129,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-09-16",
+    "open": 133,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-09-17",
+    "open": 139,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-09-18",
+    "open": 137,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-09-19",
+    "open": 127,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-09-20",
+    "open": 121,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-09-21",
+    "open": 130,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-09-22",
+    "open": 138,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-09-23",
+    "open": 128,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-09-24",
+    "open": 137,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-09-25",
+    "open": 133,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-09-26",
+    "open": 137,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-09-27",
+    "open": 133,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-09-28",
+    "open": 136,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-09-29",
+    "open": 143,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-09-30",
+    "open": 151,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-10-01",
+    "open": 145,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-10-02",
+    "open": 143,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-10-03",
+    "open": 148,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-10-04",
+    "open": 152,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-10-05",
+    "open": 151,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-10-06",
+    "open": 158,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-10-07",
+    "open": 157,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-10-08",
+    "open": 160,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-10-09",
+    "open": 165,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-10-10",
+    "open": 173,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-10-11",
+    "open": 167,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-10-12",
+    "open": 175,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-10-13",
+    "open": 177,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-10-14",
+    "open": 175,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-10-15",
+    "open": 182,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-10-16",
+    "open": 180,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-10-17",
+    "open": 179,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-10-18",
+    "open": 187,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-10-19",
+    "open": 186,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-10-20",
+    "open": 193,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-10-21",
+    "open": 197,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-10-22",
+    "open": 193,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-10-23",
+    "open": 203,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-10-24",
+    "open": 195,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-10-25",
+    "open": 202,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-10-26",
+    "open": 210,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-10-27",
+    "open": 207,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-10-28",
+    "open": 201,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-10-29",
+    "open": 211,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-10-30",
+    "open": 201,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-10-31",
+    "open": 207,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-11-01",
+    "open": 205,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-11-02",
+    "open": 207,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-11-03",
+    "open": 213,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-11-04",
+    "open": 204,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-11-05",
+    "open": 196,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-11-06",
+    "open": 201,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-11-07",
+    "open": 193,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-11-08",
+    "open": 188,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-11-09",
+    "open": 186,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-11-10",
+    "open": 190,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-11-11",
+    "open": 189,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-11-12",
+    "open": 187,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-11-13",
+    "open": 181,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-11-14",
+    "open": 172,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-11-15",
+    "open": 169,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-11-16",
+    "open": 174,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-11-17",
+    "open": 174,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-11-18",
+    "open": 178,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-11-19",
+    "open": 176,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-11-20",
+    "open": 179,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-11-21",
+    "open": 175,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-11-22",
+    "open": 174,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-11-23",
+    "open": 172,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-11-24",
+    "open": 175,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-11-25",
+    "open": 180,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-11-26",
+    "open": 170,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-11-27",
+    "open": 166,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-11-28",
+    "open": 162,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-11-29",
+    "open": 159,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-11-30",
+    "open": 153,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-12-01",
+    "open": 158,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-12-02",
+    "open": 166,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-12-03",
+    "open": 162,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-12-04",
+    "open": 152,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-12-05",
+    "open": 145,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-12-06",
+    "open": 145,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-12-07",
+    "open": 152,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-12-08",
+    "open": 159,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-12-09",
+    "open": 156,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-12-10",
+    "open": 162,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-12-11",
+    "open": 171,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-12-12",
+    "open": 167,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-12-13",
+    "open": 157,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-12-14",
+    "open": 158,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-12-15",
+    "open": 167,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-12-16",
+    "open": 159,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-12-17",
+    "open": 162,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-12-18",
+    "open": 166,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-12-19",
+    "open": 174,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-12-20",
+    "open": 182,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-12-21",
+    "open": 185,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-12-22",
+    "open": 192,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-12-23",
+    "open": 195,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-12-24",
+    "open": 187,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-12-25",
+    "open": 179,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-12-26",
+    "open": 180,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-12-27",
+    "open": 179,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-12-28",
+    "open": 188,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-12-29",
+    "open": 183,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-12-30",
+    "open": 187,
+    "Name": "shop"
+  },
+  {
+    "date": "2019-12-31",
+    "open": 184,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-01-01",
+    "open": 176,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-01-02",
+    "open": 183,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-01-03",
+    "open": 175,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-01-04",
+    "open": 169,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-01-05",
+    "open": 172,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-01-06",
+    "open": 166,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-01-07",
+    "open": 169,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-01-08",
+    "open": 162,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-01-09",
+    "open": 157,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-01-10",
+    "open": 166,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-01-11",
+    "open": 159,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-01-12",
+    "open": 153,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-01-13",
+    "open": 152,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-01-14",
+    "open": 155,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-01-15",
+    "open": 163,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-01-16",
+    "open": 169,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-01-17",
+    "open": 163,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-01-18",
+    "open": 169,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-01-19",
+    "open": 169,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-01-20",
+    "open": 179,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-01-21",
+    "open": 171,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-01-22",
+    "open": 172,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-01-23",
+    "open": 162,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-01-24",
+    "open": 171,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-01-25",
+    "open": 177,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-01-26",
+    "open": 178,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-01-27",
+    "open": 174,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-01-28",
+    "open": 170,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-01-29",
+    "open": 179,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-01-30",
+    "open": 184,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-01-31",
+    "open": 187,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-02-01",
+    "open": 192,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-02-02",
+    "open": 194,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-02-03",
+    "open": 202,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-02-04",
+    "open": 205,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-02-05",
+    "open": 202,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-02-06",
+    "open": 193,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-02-07",
+    "open": 197,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-02-08",
+    "open": 188,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-02-09",
+    "open": 196,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-02-10",
+    "open": 196,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-02-11",
+    "open": 201,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-02-12",
+    "open": 209,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-02-13",
+    "open": 209,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-02-14",
+    "open": 200,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-02-15",
+    "open": 202,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-02-16",
+    "open": 206,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-02-17",
+    "open": 213,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-02-18",
+    "open": 209,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-02-19",
+    "open": 205,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-02-20",
+    "open": 207,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-02-21",
+    "open": 216,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-02-22",
+    "open": 208,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-02-23",
+    "open": 217,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-02-24",
+    "open": 214,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-02-25",
+    "open": 205,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-02-26",
+    "open": 196,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-02-27",
+    "open": 202,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-02-28",
+    "open": 210,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-02-29",
+    "open": 210,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-03-01",
+    "open": 217,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-03-02",
+    "open": 209,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-03-03",
+    "open": 218,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-03-04",
+    "open": 224,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-03-05",
+    "open": 229,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-03-06",
+    "open": 224,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-03-07",
+    "open": 223,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-03-08",
+    "open": 230,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-03-09",
+    "open": 238,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-03-10",
+    "open": 234,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-03-11",
+    "open": 240,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-03-12",
+    "open": 239,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-03-13",
+    "open": 242,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-03-14",
+    "open": 244,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-03-15",
+    "open": 242,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-03-16",
+    "open": 234,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-03-17",
+    "open": 229,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-03-18",
+    "open": 226,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-03-19",
+    "open": 222,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-03-20",
+    "open": 219,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-03-21",
+    "open": 224,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-03-22",
+    "open": 221,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-03-23",
+    "open": 227,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-03-24",
+    "open": 226,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-03-25",
+    "open": 231,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-03-26",
+    "open": 227,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-03-27",
+    "open": 225,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-03-28",
+    "open": 218,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-03-29",
+    "open": 212,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-03-30",
+    "open": 215,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-03-31",
+    "open": 208,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-04-01",
+    "open": 208,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-04-02",
+    "open": 214,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-04-03",
+    "open": 222,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-04-04",
+    "open": 218,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-04-05",
+    "open": 210,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-04-06",
+    "open": 216,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-04-07",
+    "open": 211,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-04-08",
+    "open": 205,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-04-09",
+    "open": 210,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-04-10",
+    "open": 204,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-04-11",
+    "open": 199,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-04-12",
+    "open": 202,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-04-13",
+    "open": 193,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-04-14",
+    "open": 199,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-04-15",
+    "open": 198,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-04-16",
+    "open": 203,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-04-17",
+    "open": 193,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-04-18",
+    "open": 194,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-04-19",
+    "open": 193,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-04-20",
+    "open": 184,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-04-21",
+    "open": 189,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-04-22",
+    "open": 184,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-04-23",
+    "open": 175,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-04-24",
+    "open": 181,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-04-25",
+    "open": 190,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-04-26",
+    "open": 190,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-04-27",
+    "open": 192,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-04-28",
+    "open": 188,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-04-29",
+    "open": 196,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-04-30",
+    "open": 205,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-05-01",
+    "open": 196,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-05-02",
+    "open": 195,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-05-03",
+    "open": 202,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-05-04",
+    "open": 207,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-05-05",
+    "open": 216,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-05-06",
+    "open": 220,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-05-07",
+    "open": 218,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-05-08",
+    "open": 212,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-05-09",
+    "open": 205,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-05-10",
+    "open": 196,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-05-11",
+    "open": 195,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-05-12",
+    "open": 190,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-05-13",
+    "open": 183,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-05-14",
+    "open": 193,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-05-15",
+    "open": 183,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-05-16",
+    "open": 178,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-05-17",
+    "open": 177,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-05-18",
+    "open": 170,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-05-19",
+    "open": 167,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-05-20",
+    "open": 161,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-05-21",
+    "open": 158,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-05-22",
+    "open": 166,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-05-23",
+    "open": 163,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-05-24",
+    "open": 155,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-05-25",
+    "open": 154,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-05-26",
+    "open": 144,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-05-27",
+    "open": 153,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-05-28",
+    "open": 147,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-05-29",
+    "open": 147,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-05-30",
+    "open": 155,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-05-31",
+    "open": 153,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-06-01",
+    "open": 156,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-06-02",
+    "open": 166,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-06-03",
+    "open": 166,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-06-04",
+    "open": 168,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-06-05",
+    "open": 175,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-06-06",
+    "open": 173,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-06-07",
+    "open": 174,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-06-08",
+    "open": 171,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-06-09",
+    "open": 172,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-06-10",
+    "open": 165,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-06-11",
+    "open": 171,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-06-12",
+    "open": 180,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-06-13",
+    "open": 187,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-06-14",
+    "open": 181,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-06-15",
+    "open": 190,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-06-16",
+    "open": 200,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-06-17",
+    "open": 200,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-06-18",
+    "open": 194,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-06-19",
+    "open": 188,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-06-20",
+    "open": 189,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-06-21",
+    "open": 183,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-06-22",
+    "open": 190,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-06-23",
+    "open": 199,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-06-24",
+    "open": 196,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-06-25",
+    "open": 196,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-06-26",
+    "open": 195,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-06-27",
+    "open": 185,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-06-28",
+    "open": 178,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-06-29",
+    "open": 186,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-06-30",
+    "open": 189,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-07-01",
+    "open": 187,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-07-02",
+    "open": 194,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-07-03",
+    "open": 190,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-07-04",
+    "open": 193,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-07-05",
+    "open": 184,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-07-06",
+    "open": 175,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-07-07",
+    "open": 178,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-07-08",
+    "open": 183,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-07-09",
+    "open": 187,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-07-10",
+    "open": 194,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-07-11",
+    "open": 186,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-07-12",
+    "open": 194,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-07-13",
+    "open": 195,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-07-14",
+    "open": 194,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-07-15",
+    "open": 203,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-07-16",
+    "open": 206,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-07-17",
+    "open": 212,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-07-18",
+    "open": 220,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-07-19",
+    "open": 211,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-07-20",
+    "open": 211,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-07-21",
+    "open": 214,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-07-22",
+    "open": 211,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-07-23",
+    "open": 214,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-07-24",
+    "open": 223,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-07-25",
+    "open": 224,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-07-26",
+    "open": 219,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-07-27",
+    "open": 213,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-07-28",
+    "open": 205,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-07-29",
+    "open": 205,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-07-30",
+    "open": 213,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-07-31",
+    "open": 204,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-08-01",
+    "open": 202,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-08-02",
+    "open": 208,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-08-03",
+    "open": 204,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-08-04",
+    "open": 211,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-08-05",
+    "open": 216,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-08-06",
+    "open": 217,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-08-07",
+    "open": 214,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-08-08",
+    "open": 207,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-08-09",
+    "open": 201,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-08-10",
+    "open": 207,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-08-11",
+    "open": 205,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-08-12",
+    "open": 197,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-08-13",
+    "open": 203,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-08-14",
+    "open": 194,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-08-15",
+    "open": 186,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-08-16",
+    "open": 189,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-08-17",
+    "open": 180,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-08-18",
+    "open": 174,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-08-19",
+    "open": 181,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-08-20",
+    "open": 189,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-08-21",
+    "open": 187,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-08-22",
+    "open": 179,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-08-23",
+    "open": 176,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-08-24",
+    "open": 176,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-08-25",
+    "open": 175,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-08-26",
+    "open": 184,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-08-27",
+    "open": 191,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-08-28",
+    "open": 200,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-08-29",
+    "open": 191,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-08-30",
+    "open": 195,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-08-31",
+    "open": 194,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-09-01",
+    "open": 193,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-09-02",
+    "open": 183,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-09-03",
+    "open": 189,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-09-04",
+    "open": 184,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-09-05",
+    "open": 188,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-09-06",
+    "open": 180,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-09-07",
+    "open": 171,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-09-08",
+    "open": 174,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-09-09",
+    "open": 173,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-09-10",
+    "open": 170,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-09-11",
+    "open": 179,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-09-12",
+    "open": 169,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-09-13",
+    "open": 178,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-09-14",
+    "open": 169,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-09-15",
+    "open": 168,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-09-16",
+    "open": 160,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-09-17",
+    "open": 152,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-09-18",
+    "open": 152,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-09-19",
+    "open": 147,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-09-20",
+    "open": 147,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-09-21",
+    "open": 139,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-09-22",
+    "open": 134,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-09-23",
+    "open": 138,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-09-24",
+    "open": 130,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-09-25",
+    "open": 128,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-09-26",
+    "open": 136,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-09-27",
+    "open": 129,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-09-28",
+    "open": 125,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-09-29",
+    "open": 125,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-09-30",
+    "open": 116,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-10-01",
+    "open": 120,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-10-02",
+    "open": 123,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-10-03",
+    "open": 122,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-10-04",
+    "open": 122,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-10-05",
+    "open": 124,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-10-06",
+    "open": 122,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-10-07",
+    "open": 122,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-10-08",
+    "open": 130,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-10-09",
+    "open": 133,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-10-10",
+    "open": 126,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-10-11",
+    "open": 131,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-10-12",
+    "open": 131,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-10-13",
+    "open": 127,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-10-14",
+    "open": 136,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-10-15",
+    "open": 135,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-10-16",
+    "open": 126,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-10-17",
+    "open": 126,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-10-18",
+    "open": 131,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-10-19",
+    "open": 124,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-10-20",
+    "open": 133,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-10-21",
+    "open": 128,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-10-22",
+    "open": 125,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-10-23",
+    "open": 124,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-10-24",
+    "open": 132,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-10-25",
+    "open": 131,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-10-26",
+    "open": 121,
+    "Name": "shop"
+  },
+  {
+    "date": "2020-10-27",
+    "open": 121,
+    "Name": "shop"
+  },
+  {
+    "date": "2018-02-01",
+    "open": 458,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-02-02",
+    "open": 452,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-02-03",
+    "open": 448,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-02-04",
+    "open": 453,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-02-05",
+    "open": 459,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-02-06",
+    "open": 452,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-02-07",
+    "open": 454,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-02-08",
+    "open": 454,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-02-09",
+    "open": 446,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-02-10",
+    "open": 439,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-02-11",
+    "open": 448,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-02-12",
+    "open": 450,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-02-13",
+    "open": 440,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-02-14",
+    "open": 441,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-02-15",
+    "open": 436,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-02-16",
+    "open": 444,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-02-17",
+    "open": 435,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-02-18",
+    "open": 431,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-02-19",
+    "open": 440,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-02-20",
+    "open": 446,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-02-21",
+    "open": 441,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-02-22",
+    "open": 435,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-02-23",
+    "open": 440,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-02-24",
+    "open": 446,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-02-25",
+    "open": 441,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-02-26",
+    "open": 447,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-02-27",
+    "open": 439,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-02-28",
+    "open": 449,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-03-01",
+    "open": 454,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-03-02",
+    "open": 463,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-03-03",
+    "open": 454,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-03-04",
+    "open": 454,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-03-05",
+    "open": 458,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-03-06",
+    "open": 453,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-03-07",
+    "open": 449,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-03-08",
+    "open": 452,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-03-09",
+    "open": 462,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-03-10",
+    "open": 460,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-03-11",
+    "open": 460,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-03-12",
+    "open": 452,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-03-13",
+    "open": 462,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-03-14",
+    "open": 472,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-03-15",
+    "open": 466,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-03-16",
+    "open": 472,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-03-17",
+    "open": 482,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-03-18",
+    "open": 485,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-03-19",
+    "open": 486,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-03-20",
+    "open": 494,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-03-21",
+    "open": 503,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-03-22",
+    "open": 503,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-03-23",
+    "open": 510,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-03-24",
+    "open": 505,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-03-25",
+    "open": 498,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-03-26",
+    "open": 495,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-03-27",
+    "open": 500,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-03-28",
+    "open": 499,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-03-29",
+    "open": 501,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-03-30",
+    "open": 499,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-03-31",
+    "open": 490,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-04-01",
+    "open": 488,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-04-02",
+    "open": 497,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-04-03",
+    "open": 498,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-04-04",
+    "open": 497,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-04-05",
+    "open": 491,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-04-06",
+    "open": 494,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-04-07",
+    "open": 499,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-04-08",
+    "open": 495,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-04-09",
+    "open": 502,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-04-10",
+    "open": 492,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-04-11",
+    "open": 487,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-04-12",
+    "open": 497,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-04-13",
+    "open": 505,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-04-14",
+    "open": 509,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-04-15",
+    "open": 500,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-04-16",
+    "open": 502,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-04-17",
+    "open": 505,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-04-18",
+    "open": 509,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-04-19",
+    "open": 505,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-04-20",
+    "open": 502,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-04-21",
+    "open": 499,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-04-22",
+    "open": 507,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-04-23",
+    "open": 507,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-04-24",
+    "open": 517,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-04-25",
+    "open": 517,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-04-26",
+    "open": 523,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-04-27",
+    "open": 530,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-04-28",
+    "open": 524,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-04-29",
+    "open": 527,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-04-30",
+    "open": 537,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-05-01",
+    "open": 531,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-05-02",
+    "open": 531,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-05-03",
+    "open": 531,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-05-04",
+    "open": 529,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-05-05",
+    "open": 531,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-05-06",
+    "open": 528,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-05-07",
+    "open": 521,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-05-08",
+    "open": 520,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-05-09",
+    "open": 528,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-05-10",
+    "open": 531,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-05-11",
+    "open": 534,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-05-12",
+    "open": 535,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-05-13",
+    "open": 540,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-05-14",
+    "open": 535,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-05-15",
+    "open": 540,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-05-16",
+    "open": 532,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-05-17",
+    "open": 523,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-05-18",
+    "open": 515,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-05-19",
+    "open": 516,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-05-20",
+    "open": 521,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-05-21",
+    "open": 521,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-05-22",
+    "open": 514,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-05-23",
+    "open": 510,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-05-24",
+    "open": 519,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-05-25",
+    "open": 509,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-05-26",
+    "open": 514,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-05-27",
+    "open": 515,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-05-28",
+    "open": 513,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-05-29",
+    "open": 516,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-05-30",
+    "open": 517,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-05-31",
+    "open": 527,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-06-01",
+    "open": 518,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-06-02",
+    "open": 528,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-06-03",
+    "open": 535,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-06-04",
+    "open": 530,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-06-05",
+    "open": 522,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-06-06",
+    "open": 520,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-06-07",
+    "open": 516,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-06-08",
+    "open": 520,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-06-09",
+    "open": 528,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-06-10",
+    "open": 525,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-06-11",
+    "open": 518,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-06-12",
+    "open": 509,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-06-13",
+    "open": 502,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-06-14",
+    "open": 499,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-06-15",
+    "open": 507,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-06-16",
+    "open": 516,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-06-17",
+    "open": 514,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-06-18",
+    "open": 517,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-06-19",
+    "open": 512,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-06-20",
+    "open": 515,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-06-21",
+    "open": 513,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-06-22",
+    "open": 520,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-06-23",
+    "open": 522,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-06-24",
+    "open": 521,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-06-25",
+    "open": 521,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-06-26",
+    "open": 519,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-06-27",
+    "open": 517,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-06-28",
+    "open": 509,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-06-29",
+    "open": 516,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-06-30",
+    "open": 509,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-07-01",
+    "open": 507,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-07-02",
+    "open": 513,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-07-03",
+    "open": 508,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-07-04",
+    "open": 516,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-07-05",
+    "open": 522,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-07-06",
+    "open": 531,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-07-07",
+    "open": 525,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-07-08",
+    "open": 534,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-07-09",
+    "open": 532,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-07-10",
+    "open": 541,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-07-11",
+    "open": 535,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-07-12",
+    "open": 535,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-07-13",
+    "open": 537,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-07-14",
+    "open": 532,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-07-15",
+    "open": 526,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-07-16",
+    "open": 521,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-07-17",
+    "open": 528,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-07-18",
+    "open": 533,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-07-19",
+    "open": 538,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-07-20",
+    "open": 539,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-07-21",
+    "open": 534,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-07-22",
+    "open": 533,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-07-23",
+    "open": 539,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-07-24",
+    "open": 547,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-07-25",
+    "open": 541,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-07-26",
+    "open": 532,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-07-27",
+    "open": 531,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-07-28",
+    "open": 526,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-07-29",
+    "open": 526,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-07-30",
+    "open": 521,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-07-31",
+    "open": 520,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-08-01",
+    "open": 524,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-08-02",
+    "open": 524,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-08-03",
+    "open": 530,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-08-04",
+    "open": 520,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-08-05",
+    "open": 519,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-08-06",
+    "open": 520,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-08-07",
+    "open": 515,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-08-08",
+    "open": 507,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-08-09",
+    "open": 502,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-08-10",
+    "open": 510,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-08-11",
+    "open": 502,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-08-12",
+    "open": 509,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-08-13",
+    "open": 505,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-08-14",
+    "open": 504,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-08-15",
+    "open": 499,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-08-16",
+    "open": 507,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-08-17",
+    "open": 513,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-08-18",
+    "open": 508,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-08-19",
+    "open": 500,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-08-20",
+    "open": 501,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-08-21",
+    "open": 504,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-08-22",
+    "open": 510,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-08-23",
+    "open": 502,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-08-24",
+    "open": 508,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-08-25",
+    "open": 515,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-08-26",
+    "open": 517,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-08-27",
+    "open": 518,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-08-28",
+    "open": 514,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-08-29",
+    "open": 516,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-08-30",
+    "open": 526,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-08-31",
+    "open": 518,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-09-01",
+    "open": 519,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-09-02",
+    "open": 528,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-09-03",
+    "open": 526,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-09-04",
+    "open": 517,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-09-05",
+    "open": 515,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-09-06",
+    "open": 509,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-09-07",
+    "open": 501,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-09-08",
+    "open": 503,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-09-09",
+    "open": 502,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-09-10",
+    "open": 506,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-09-11",
+    "open": 502,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-09-12",
+    "open": 508,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-09-13",
+    "open": 507,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-09-14",
+    "open": 505,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-09-15",
+    "open": 500,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-09-16",
+    "open": 500,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-09-17",
+    "open": 506,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-09-18",
+    "open": 513,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-09-19",
+    "open": 517,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-09-20",
+    "open": 518,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-09-21",
+    "open": 511,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-09-22",
+    "open": 516,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-09-23",
+    "open": 509,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-09-24",
+    "open": 519,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-09-25",
+    "open": 510,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-09-26",
+    "open": 507,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-09-27",
+    "open": 511,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-09-28",
+    "open": 516,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-09-29",
+    "open": 507,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-09-30",
+    "open": 513,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-10-01",
+    "open": 510,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-10-02",
+    "open": 508,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-10-03",
+    "open": 505,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-10-04",
+    "open": 512,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-10-05",
+    "open": 512,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-10-06",
+    "open": 511,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-10-07",
+    "open": 519,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-10-08",
+    "open": 512,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-10-09",
+    "open": 519,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-10-10",
+    "open": 523,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-10-11",
+    "open": 515,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-10-12",
+    "open": 521,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-10-13",
+    "open": 528,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-10-14",
+    "open": 523,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-10-15",
+    "open": 524,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-10-16",
+    "open": 517,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-10-17",
+    "open": 514,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-10-18",
+    "open": 510,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-10-19",
+    "open": 513,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-10-20",
+    "open": 508,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-10-21",
+    "open": 515,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-10-22",
+    "open": 518,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-10-23",
+    "open": 524,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-10-24",
+    "open": 517,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-10-25",
+    "open": 511,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-10-26",
+    "open": 508,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-10-27",
+    "open": 503,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-10-28",
+    "open": 495,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-10-29",
+    "open": 505,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-10-30",
+    "open": 507,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-10-31",
+    "open": 509,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-11-01",
+    "open": 510,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-11-02",
+    "open": 507,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-11-03",
+    "open": 516,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-11-04",
+    "open": 522,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-11-05",
+    "open": 512,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-11-06",
+    "open": 518,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-11-07",
+    "open": 523,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-11-08",
+    "open": 518,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-11-09",
+    "open": 510,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-11-10",
+    "open": 518,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-11-11",
+    "open": 515,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-11-12",
+    "open": 521,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-11-13",
+    "open": 517,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-11-14",
+    "open": 519,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-11-15",
+    "open": 519,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-11-16",
+    "open": 511,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-11-17",
+    "open": 520,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-11-18",
+    "open": 524,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-11-19",
+    "open": 522,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-11-20",
+    "open": 524,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-11-21",
+    "open": 524,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-11-22",
+    "open": 533,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-11-23",
+    "open": 536,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-11-24",
+    "open": 540,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-11-25",
+    "open": 545,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-11-26",
+    "open": 538,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-11-27",
+    "open": 529,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-11-28",
+    "open": 534,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-11-29",
+    "open": 536,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-11-30",
+    "open": 544,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-12-01",
+    "open": 537,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-12-02",
+    "open": 532,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-12-03",
+    "open": 536,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-12-04",
+    "open": 528,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-12-05",
+    "open": 529,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-12-06",
+    "open": 529,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-12-07",
+    "open": 529,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-12-08",
+    "open": 537,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-12-09",
+    "open": 540,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-12-10",
+    "open": 533,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-12-11",
+    "open": 538,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-12-12",
+    "open": 529,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-12-13",
+    "open": 529,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-12-14",
+    "open": 526,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-12-15",
+    "open": 535,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-12-16",
+    "open": 542,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-12-17",
+    "open": 533,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-12-18",
+    "open": 532,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-12-19",
+    "open": 535,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-12-20",
+    "open": 530,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-12-21",
+    "open": 526,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-12-22",
+    "open": 528,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-12-23",
+    "open": 523,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-12-24",
+    "open": 514,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-12-25",
+    "open": 514,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-12-26",
+    "open": 511,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-12-27",
+    "open": 515,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-12-28",
+    "open": 512,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-12-29",
+    "open": 502,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-12-30",
+    "open": 511,
+    "Name": "fb"
+  },
+  {
+    "date": "2018-12-31",
+    "open": 508,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-01-01",
+    "open": 514,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-01-02",
+    "open": 512,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-01-03",
+    "open": 507,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-01-04",
+    "open": 506,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-01-05",
+    "open": 514,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-01-06",
+    "open": 522,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-01-07",
+    "open": 531,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-01-08",
+    "open": 530,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-01-09",
+    "open": 529,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-01-10",
+    "open": 532,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-01-11",
+    "open": 529,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-01-12",
+    "open": 526,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-01-13",
+    "open": 530,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-01-14",
+    "open": 526,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-01-15",
+    "open": 517,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-01-16",
+    "open": 525,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-01-17",
+    "open": 516,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-01-18",
+    "open": 515,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-01-19",
+    "open": 514,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-01-20",
+    "open": 522,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-01-21",
+    "open": 522,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-01-22",
+    "open": 521,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-01-23",
+    "open": 513,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-01-24",
+    "open": 508,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-01-25",
+    "open": 502,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-01-26",
+    "open": 508,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-01-27",
+    "open": 500,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-01-28",
+    "open": 506,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-01-29",
+    "open": 504,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-01-30",
+    "open": 503,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-01-31",
+    "open": 506,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-02-01",
+    "open": 498,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-02-02",
+    "open": 495,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-02-03",
+    "open": 493,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-02-04",
+    "open": 500,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-02-05",
+    "open": 504,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-02-06",
+    "open": 511,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-02-07",
+    "open": 506,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-02-08",
+    "open": 504,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-02-09",
+    "open": 507,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-02-10",
+    "open": 515,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-02-11",
+    "open": 513,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-02-12",
+    "open": 504,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-02-13",
+    "open": 512,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-02-14",
+    "open": 505,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-02-15",
+    "open": 508,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-02-16",
+    "open": 509,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-02-17",
+    "open": 514,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-02-18",
+    "open": 507,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-02-19",
+    "open": 498,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-02-20",
+    "open": 503,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-02-21",
+    "open": 504,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-02-22",
+    "open": 508,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-02-23",
+    "open": 501,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-02-24",
+    "open": 498,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-02-25",
+    "open": 503,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-02-26",
+    "open": 498,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-02-27",
+    "open": 498,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-02-28",
+    "open": 498,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-03-01",
+    "open": 499,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-03-02",
+    "open": 494,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-03-03",
+    "open": 489,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-03-04",
+    "open": 487,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-03-05",
+    "open": 479,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-03-06",
+    "open": 471,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-03-07",
+    "open": 480,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-03-08",
+    "open": 481,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-03-09",
+    "open": 472,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-03-10",
+    "open": 469,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-03-11",
+    "open": 469,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-03-12",
+    "open": 476,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-03-13",
+    "open": 467,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-03-14",
+    "open": 466,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-03-15",
+    "open": 469,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-03-16",
+    "open": 464,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-03-17",
+    "open": 473,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-03-18",
+    "open": 474,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-03-19",
+    "open": 468,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-03-20",
+    "open": 470,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-03-21",
+    "open": 478,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-03-22",
+    "open": 484,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-03-23",
+    "open": 493,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-03-24",
+    "open": 495,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-03-25",
+    "open": 487,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-03-26",
+    "open": 493,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-03-27",
+    "open": 488,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-03-28",
+    "open": 489,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-03-29",
+    "open": 485,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-03-30",
+    "open": 486,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-03-31",
+    "open": 492,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-04-01",
+    "open": 485,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-04-02",
+    "open": 484,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-04-03",
+    "open": 480,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-04-04",
+    "open": 480,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-04-05",
+    "open": 472,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-04-06",
+    "open": 474,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-04-07",
+    "open": 479,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-04-08",
+    "open": 478,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-04-09",
+    "open": 473,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-04-10",
+    "open": 463,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-04-11",
+    "open": 472,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-04-12",
+    "open": 468,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-04-13",
+    "open": 473,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-04-14",
+    "open": 481,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-04-15",
+    "open": 478,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-04-16",
+    "open": 471,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-04-17",
+    "open": 480,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-04-18",
+    "open": 477,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-04-19",
+    "open": 480,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-04-20",
+    "open": 474,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-04-21",
+    "open": 478,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-04-22",
+    "open": 475,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-04-23",
+    "open": 479,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-04-24",
+    "open": 483,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-04-25",
+    "open": 492,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-04-26",
+    "open": 490,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-04-27",
+    "open": 487,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-04-28",
+    "open": 482,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-04-29",
+    "open": 489,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-04-30",
+    "open": 488,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-05-01",
+    "open": 482,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-05-02",
+    "open": 489,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-05-03",
+    "open": 486,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-05-04",
+    "open": 495,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-05-05",
+    "open": 505,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-05-06",
+    "open": 505,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-05-07",
+    "open": 500,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-05-08",
+    "open": 494,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-05-09",
+    "open": 498,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-05-10",
+    "open": 493,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-05-11",
+    "open": 484,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-05-12",
+    "open": 492,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-05-13",
+    "open": 500,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-05-14",
+    "open": 503,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-05-15",
+    "open": 505,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-05-16",
+    "open": 497,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-05-17",
+    "open": 494,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-05-18",
+    "open": 489,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-05-19",
+    "open": 487,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-05-20",
+    "open": 479,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-05-21",
+    "open": 477,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-05-22",
+    "open": 477,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-05-23",
+    "open": 484,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-05-24",
+    "open": 482,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-05-25",
+    "open": 481,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-05-26",
+    "open": 483,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-05-27",
+    "open": 479,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-05-28",
+    "open": 481,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-05-29",
+    "open": 483,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-05-30",
+    "open": 483,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-05-31",
+    "open": 483,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-06-01",
+    "open": 481,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-06-02",
+    "open": 490,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-06-03",
+    "open": 493,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-06-04",
+    "open": 488,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-06-05",
+    "open": 482,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-06-06",
+    "open": 483,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-06-07",
+    "open": 492,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-06-08",
+    "open": 493,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-06-09",
+    "open": 502,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-06-10",
+    "open": 493,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-06-11",
+    "open": 495,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-06-12",
+    "open": 493,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-06-13",
+    "open": 484,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-06-14",
+    "open": 474,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-06-15",
+    "open": 475,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-06-16",
+    "open": 470,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-06-17",
+    "open": 460,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-06-18",
+    "open": 462,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-06-19",
+    "open": 471,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-06-20",
+    "open": 472,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-06-21",
+    "open": 467,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-06-22",
+    "open": 469,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-06-23",
+    "open": 476,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-06-24",
+    "open": 486,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-06-25",
+    "open": 487,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-06-26",
+    "open": 495,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-06-27",
+    "open": 494,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-06-28",
+    "open": 496,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-06-29",
+    "open": 488,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-06-30",
+    "open": 490,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-07-01",
+    "open": 488,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-07-02",
+    "open": 487,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-07-03",
+    "open": 485,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-07-04",
+    "open": 491,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-07-05",
+    "open": 491,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-07-06",
+    "open": 483,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-07-07",
+    "open": 474,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-07-08",
+    "open": 477,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-07-09",
+    "open": 477,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-07-10",
+    "open": 483,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-07-11",
+    "open": 485,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-07-12",
+    "open": 488,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-07-13",
+    "open": 479,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-07-14",
+    "open": 484,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-07-15",
+    "open": 480,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-07-16",
+    "open": 477,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-07-17",
+    "open": 468,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-07-18",
+    "open": 460,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-07-19",
+    "open": 462,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-07-20",
+    "open": 457,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-07-21",
+    "open": 465,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-07-22",
+    "open": 465,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-07-23",
+    "open": 462,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-07-24",
+    "open": 471,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-07-25",
+    "open": 470,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-07-26",
+    "open": 464,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-07-27",
+    "open": 461,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-07-28",
+    "open": 471,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-07-29",
+    "open": 469,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-07-30",
+    "open": 478,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-07-31",
+    "open": 470,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-08-01",
+    "open": 462,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-08-02",
+    "open": 464,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-08-03",
+    "open": 470,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-08-04",
+    "open": 469,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-08-05",
+    "open": 464,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-08-06",
+    "open": 462,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-08-07",
+    "open": 453,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-08-08",
+    "open": 444,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-08-09",
+    "open": 451,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-08-10",
+    "open": 459,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-08-11",
+    "open": 459,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-08-12",
+    "open": 463,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-08-13",
+    "open": 456,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-08-14",
+    "open": 462,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-08-15",
+    "open": 468,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-08-16",
+    "open": 472,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-08-17",
+    "open": 465,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-08-18",
+    "open": 469,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-08-19",
+    "open": 468,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-08-20",
+    "open": 476,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-08-21",
+    "open": 486,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-08-22",
+    "open": 489,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-08-23",
+    "open": 498,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-08-24",
+    "open": 506,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-08-25",
+    "open": 509,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-08-26",
+    "open": 508,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-08-27",
+    "open": 511,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-08-28",
+    "open": 507,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-08-29",
+    "open": 500,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-08-30",
+    "open": 505,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-08-31",
+    "open": 514,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-09-01",
+    "open": 506,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-09-02",
+    "open": 513,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-09-03",
+    "open": 510,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-09-04",
+    "open": 515,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-09-05",
+    "open": 524,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-09-06",
+    "open": 524,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-09-07",
+    "open": 531,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-09-08",
+    "open": 527,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-09-09",
+    "open": 532,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-09-10",
+    "open": 523,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-09-11",
+    "open": 519,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-09-12",
+    "open": 522,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-09-13",
+    "open": 519,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-09-14",
+    "open": 511,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-09-15",
+    "open": 503,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-09-16",
+    "open": 511,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-09-17",
+    "open": 503,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-09-18",
+    "open": 501,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-09-19",
+    "open": 500,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-09-20",
+    "open": 495,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-09-21",
+    "open": 492,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-09-22",
+    "open": 485,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-09-23",
+    "open": 494,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-09-24",
+    "open": 500,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-09-25",
+    "open": 495,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-09-26",
+    "open": 496,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-09-27",
+    "open": 493,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-09-28",
+    "open": 499,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-09-29",
+    "open": 508,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-09-30",
+    "open": 499,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-10-01",
+    "open": 497,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-10-02",
+    "open": 488,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-10-03",
+    "open": 494,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-10-04",
+    "open": 491,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-10-05",
+    "open": 481,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-10-06",
+    "open": 480,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-10-07",
+    "open": 481,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-10-08",
+    "open": 479,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-10-09",
+    "open": 473,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-10-10",
+    "open": 469,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-10-11",
+    "open": 475,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-10-12",
+    "open": 484,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-10-13",
+    "open": 490,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-10-14",
+    "open": 491,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-10-15",
+    "open": 500,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-10-16",
+    "open": 498,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-10-17",
+    "open": 489,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-10-18",
+    "open": 487,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-10-19",
+    "open": 492,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-10-20",
+    "open": 497,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-10-21",
+    "open": 503,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-10-22",
+    "open": 507,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-10-23",
+    "open": 517,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-10-24",
+    "open": 512,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-10-25",
+    "open": 507,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-10-26",
+    "open": 512,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-10-27",
+    "open": 511,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-10-28",
+    "open": 503,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-10-29",
+    "open": 503,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-10-30",
+    "open": 506,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-10-31",
+    "open": 507,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-11-01",
+    "open": 516,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-11-02",
+    "open": 510,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-11-03",
+    "open": 517,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-11-04",
+    "open": 510,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-11-05",
+    "open": 511,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-11-06",
+    "open": 515,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-11-07",
+    "open": 510,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-11-08",
+    "open": 500,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-11-09",
+    "open": 509,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-11-10",
+    "open": 505,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-11-11",
+    "open": 506,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-11-12",
+    "open": 502,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-11-13",
+    "open": 492,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-11-14",
+    "open": 491,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-11-15",
+    "open": 497,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-11-16",
+    "open": 489,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-11-17",
+    "open": 482,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-11-18",
+    "open": 486,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-11-19",
+    "open": 485,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-11-20",
+    "open": 478,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-11-21",
+    "open": 479,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-11-22",
+    "open": 478,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-11-23",
+    "open": 482,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-11-24",
+    "open": 478,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-11-25",
+    "open": 474,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-11-26",
+    "open": 470,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-11-27",
+    "open": 477,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-11-28",
+    "open": 469,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-11-29",
+    "open": 468,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-11-30",
+    "open": 472,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-12-01",
+    "open": 479,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-12-02",
+    "open": 482,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-12-03",
+    "open": 475,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-12-04",
+    "open": 480,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-12-05",
+    "open": 472,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-12-06",
+    "open": 481,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-12-07",
+    "open": 491,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-12-08",
+    "open": 483,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-12-09",
+    "open": 478,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-12-10",
+    "open": 485,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-12-11",
+    "open": 495,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-12-12",
+    "open": 490,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-12-13",
+    "open": 484,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-12-14",
+    "open": 489,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-12-15",
+    "open": 496,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-12-16",
+    "open": 496,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-12-17",
+    "open": 499,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-12-18",
+    "open": 508,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-12-19",
+    "open": 514,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-12-20",
+    "open": 517,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-12-21",
+    "open": 515,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-12-22",
+    "open": 510,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-12-23",
+    "open": 508,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-12-24",
+    "open": 511,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-12-25",
+    "open": 514,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-12-26",
+    "open": 516,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-12-27",
+    "open": 512,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-12-28",
+    "open": 516,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-12-29",
+    "open": 510,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-12-30",
+    "open": 504,
+    "Name": "fb"
+  },
+  {
+    "date": "2019-12-31",
+    "open": 510,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-01-01",
+    "open": 516,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-01-02",
+    "open": 524,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-01-03",
+    "open": 515,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-01-04",
+    "open": 512,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-01-05",
+    "open": 503,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-01-06",
+    "open": 510,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-01-07",
+    "open": 509,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-01-08",
+    "open": 502,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-01-09",
+    "open": 511,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-01-10",
+    "open": 511,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-01-11",
+    "open": 501,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-01-12",
+    "open": 496,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-01-13",
+    "open": 503,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-01-14",
+    "open": 501,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-01-15",
+    "open": 506,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-01-16",
+    "open": 502,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-01-17",
+    "open": 508,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-01-18",
+    "open": 517,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-01-19",
+    "open": 523,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-01-20",
+    "open": 529,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-01-21",
+    "open": 536,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-01-22",
+    "open": 535,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-01-23",
+    "open": 539,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-01-24",
+    "open": 543,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-01-25",
+    "open": 538,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-01-26",
+    "open": 528,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-01-27",
+    "open": 522,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-01-28",
+    "open": 519,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-01-29",
+    "open": 518,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-01-30",
+    "open": 515,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-01-31",
+    "open": 514,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-02-01",
+    "open": 520,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-02-02",
+    "open": 525,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-02-03",
+    "open": 535,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-02-04",
+    "open": 526,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-02-05",
+    "open": 524,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-02-06",
+    "open": 518,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-02-07",
+    "open": 518,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-02-08",
+    "open": 512,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-02-09",
+    "open": 521,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-02-10",
+    "open": 513,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-02-11",
+    "open": 521,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-02-12",
+    "open": 525,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-02-13",
+    "open": 528,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-02-14",
+    "open": 530,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-02-15",
+    "open": 525,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-02-16",
+    "open": 519,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-02-17",
+    "open": 520,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-02-18",
+    "open": 522,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-02-19",
+    "open": 522,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-02-20",
+    "open": 526,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-02-21",
+    "open": 524,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-02-22",
+    "open": 523,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-02-23",
+    "open": 521,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-02-24",
+    "open": 512,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-02-25",
+    "open": 517,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-02-26",
+    "open": 520,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-02-27",
+    "open": 519,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-02-28",
+    "open": 513,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-02-29",
+    "open": 521,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-03-01",
+    "open": 524,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-03-02",
+    "open": 532,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-03-03",
+    "open": 538,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-03-04",
+    "open": 532,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-03-05",
+    "open": 529,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-03-06",
+    "open": 526,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-03-07",
+    "open": 519,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-03-08",
+    "open": 512,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-03-09",
+    "open": 505,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-03-10",
+    "open": 498,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-03-11",
+    "open": 495,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-03-12",
+    "open": 492,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-03-13",
+    "open": 484,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-03-14",
+    "open": 493,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-03-15",
+    "open": 492,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-03-16",
+    "open": 487,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-03-17",
+    "open": 484,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-03-18",
+    "open": 493,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-03-19",
+    "open": 498,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-03-20",
+    "open": 493,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-03-21",
+    "open": 497,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-03-22",
+    "open": 506,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-03-23",
+    "open": 506,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-03-24",
+    "open": 497,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-03-25",
+    "open": 503,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-03-26",
+    "open": 506,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-03-27",
+    "open": 510,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-03-28",
+    "open": 512,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-03-29",
+    "open": 515,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-03-30",
+    "open": 521,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-03-31",
+    "open": 520,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-04-01",
+    "open": 516,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-04-02",
+    "open": 518,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-04-03",
+    "open": 513,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-04-04",
+    "open": 519,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-04-05",
+    "open": 518,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-04-06",
+    "open": 522,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-04-07",
+    "open": 526,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-04-08",
+    "open": 529,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-04-09",
+    "open": 528,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-04-10",
+    "open": 530,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-04-11",
+    "open": 539,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-04-12",
+    "open": 530,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-04-13",
+    "open": 534,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-04-14",
+    "open": 536,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-04-15",
+    "open": 528,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-04-16",
+    "open": 527,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-04-17",
+    "open": 535,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-04-18",
+    "open": 538,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-04-19",
+    "open": 546,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-04-20",
+    "open": 550,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-04-21",
+    "open": 552,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-04-22",
+    "open": 548,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-04-23",
+    "open": 545,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-04-24",
+    "open": 543,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-04-25",
+    "open": 546,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-04-26",
+    "open": 554,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-04-27",
+    "open": 553,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-04-28",
+    "open": 561,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-04-29",
+    "open": 568,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-04-30",
+    "open": 570,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-05-01",
+    "open": 566,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-05-02",
+    "open": 558,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-05-03",
+    "open": 566,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-05-04",
+    "open": 569,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-05-05",
+    "open": 564,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-05-06",
+    "open": 555,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-05-07",
+    "open": 561,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-05-08",
+    "open": 557,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-05-09",
+    "open": 552,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-05-10",
+    "open": 548,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-05-11",
+    "open": 555,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-05-12",
+    "open": 549,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-05-13",
+    "open": 544,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-05-14",
+    "open": 539,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-05-15",
+    "open": 532,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-05-16",
+    "open": 540,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-05-17",
+    "open": 539,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-05-18",
+    "open": 532,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-05-19",
+    "open": 537,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-05-20",
+    "open": 541,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-05-21",
+    "open": 542,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-05-22",
+    "open": 535,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-05-23",
+    "open": 531,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-05-24",
+    "open": 524,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-05-25",
+    "open": 517,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-05-26",
+    "open": 526,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-05-27",
+    "open": 526,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-05-28",
+    "open": 518,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-05-29",
+    "open": 520,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-05-30",
+    "open": 521,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-05-31",
+    "open": 521,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-06-01",
+    "open": 525,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-06-02",
+    "open": 531,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-06-03",
+    "open": 533,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-06-04",
+    "open": 536,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-06-05",
+    "open": 526,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-06-06",
+    "open": 532,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-06-07",
+    "open": 528,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-06-08",
+    "open": 532,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-06-09",
+    "open": 530,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-06-10",
+    "open": 523,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-06-11",
+    "open": 532,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-06-12",
+    "open": 536,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-06-13",
+    "open": 529,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-06-14",
+    "open": 538,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-06-15",
+    "open": 540,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-06-16",
+    "open": 535,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-06-17",
+    "open": 532,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-06-18",
+    "open": 523,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-06-19",
+    "open": 525,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-06-20",
+    "open": 519,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-06-21",
+    "open": 520,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-06-22",
+    "open": 525,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-06-23",
+    "open": 520,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-06-24",
+    "open": 513,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-06-25",
+    "open": 506,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-06-26",
+    "open": 512,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-06-27",
+    "open": 520,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-06-28",
+    "open": 516,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-06-29",
+    "open": 509,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-06-30",
+    "open": 502,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-07-01",
+    "open": 509,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-07-02",
+    "open": 508,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-07-03",
+    "open": 507,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-07-04",
+    "open": 500,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-07-05",
+    "open": 504,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-07-06",
+    "open": 500,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-07-07",
+    "open": 499,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-07-08",
+    "open": 494,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-07-09",
+    "open": 500,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-07-10",
+    "open": 510,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-07-11",
+    "open": 512,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-07-12",
+    "open": 511,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-07-13",
+    "open": 514,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-07-14",
+    "open": 514,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-07-15",
+    "open": 521,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-07-16",
+    "open": 521,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-07-17",
+    "open": 516,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-07-18",
+    "open": 507,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-07-19",
+    "open": 514,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-07-20",
+    "open": 523,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-07-21",
+    "open": 516,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-07-22",
+    "open": 512,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-07-23",
+    "open": 521,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-07-24",
+    "open": 523,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-07-25",
+    "open": 532,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-07-26",
+    "open": 531,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-07-27",
+    "open": 535,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-07-28",
+    "open": 544,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-07-29",
+    "open": 548,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-07-30",
+    "open": 546,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-07-31",
+    "open": 537,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-08-01",
+    "open": 539,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-08-02",
+    "open": 543,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-08-03",
+    "open": 543,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-08-04",
+    "open": 547,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-08-05",
+    "open": 550,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-08-06",
+    "open": 545,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-08-07",
+    "open": 546,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-08-08",
+    "open": 552,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-08-09",
+    "open": 546,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-08-10",
+    "open": 537,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-08-11",
+    "open": 546,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-08-12",
+    "open": 545,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-08-13",
+    "open": 538,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-08-14",
+    "open": 547,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-08-15",
+    "open": 552,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-08-16",
+    "open": 556,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-08-17",
+    "open": 552,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-08-18",
+    "open": 552,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-08-19",
+    "open": 548,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-08-20",
+    "open": 542,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-08-21",
+    "open": 549,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-08-22",
+    "open": 540,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-08-23",
+    "open": 531,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-08-24",
+    "open": 535,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-08-25",
+    "open": 534,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-08-26",
+    "open": 528,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-08-27",
+    "open": 536,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-08-28",
+    "open": 532,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-08-29",
+    "open": 534,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-08-30",
+    "open": 528,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-08-31",
+    "open": 527,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-09-01",
+    "open": 530,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-09-02",
+    "open": 529,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-09-03",
+    "open": 537,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-09-04",
+    "open": 545,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-09-05",
+    "open": 552,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-09-06",
+    "open": 556,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-09-07",
+    "open": 559,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-09-08",
+    "open": 568,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-09-09",
+    "open": 569,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-09-10",
+    "open": 567,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-09-11",
+    "open": 566,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-09-12",
+    "open": 564,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-09-13",
+    "open": 559,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-09-14",
+    "open": 563,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-09-15",
+    "open": 571,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-09-16",
+    "open": 574,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-09-17",
+    "open": 567,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-09-18",
+    "open": 573,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-09-19",
+    "open": 569,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-09-20",
+    "open": 564,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-09-21",
+    "open": 563,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-09-22",
+    "open": 567,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-09-23",
+    "open": 571,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-09-24",
+    "open": 563,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-09-25",
+    "open": 555,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-09-26",
+    "open": 549,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-09-27",
+    "open": 553,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-09-28",
+    "open": 547,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-09-29",
+    "open": 555,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-09-30",
+    "open": 545,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-10-01",
+    "open": 538,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-10-02",
+    "open": 534,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-10-03",
+    "open": 529,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-10-04",
+    "open": 532,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-10-05",
+    "open": 542,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-10-06",
+    "open": 542,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-10-07",
+    "open": 546,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-10-08",
+    "open": 550,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-10-09",
+    "open": 551,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-10-10",
+    "open": 556,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-10-11",
+    "open": 561,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-10-12",
+    "open": 566,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-10-13",
+    "open": 566,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-10-14",
+    "open": 564,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-10-15",
+    "open": 564,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-10-16",
+    "open": 562,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-10-17",
+    "open": 564,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-10-18",
+    "open": 558,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-10-19",
+    "open": 556,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-10-20",
+    "open": 558,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-10-21",
+    "open": 553,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-10-22",
+    "open": 552,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-10-23",
+    "open": 545,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-10-24",
+    "open": 542,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-10-25",
+    "open": 533,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-10-26",
+    "open": 528,
+    "Name": "fb"
+  },
+  {
+    "date": "2020-10-27",
+    "open": 519,
+    "Name": "fb"
+  }
+]
