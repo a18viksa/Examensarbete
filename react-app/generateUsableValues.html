@@ -8,14 +8,15 @@
         <script>
             var date = new Date(2000, 01, 01);
             function createStockData() {
-                var maxDataPoints = 2000;
+                var maxDataPoints = 20000;
                 // set number of datapoints to generate
                 var startValue = 100;
                 var startValue2 = 200;
+                var str = "";
                 // change startValue of every stock for randomness.
                 // ex. goog = 348, aapl = 145 etc.
+                var text = "";
                 for (var i = 0; i < maxDataPoints; i++) {
-                    var text = "";
                     var data = [];
                     var day = date.getDate() + 0;
                     var month = date.getMonth() + 1;
@@ -43,10 +44,9 @@
                         "," +
                         startValue2 +
                         "<br>";
-
                     date.setDate(date.getDate() + 1);
-                    document.getElementById("stonks").innerHTML += text;
                 }
+                document.getElementById("stonks").innerHTML = text;
             }
         </script>
     </body>
