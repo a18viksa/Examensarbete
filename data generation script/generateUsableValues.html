@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <button onclick="createStockData()">Generate</button>
+
+        <p id="stonks"></p>
+
+        <script>
+            var date = new Date(2000, 01, 01);
+            function createStockData() {
+                var maxDataPoints = 20000;
+                // set number of datapoints to generate
+                var startValue = 100;
+                var startValue2 = 200;
+                var str = "";
+                // change startValue of every stock for randomness.
+                // ex. goog = 348, aapl = 145 etc.
+                var text = "";
+                for (var i = 0; i < maxDataPoints; i++) {
+                    var data = [];
+                    var day = date.getDate() + 0;
+                    var month = date.getMonth() + 1;
+                    var year = date.getFullYear();
+
+                    if (day < 10) {
+                        day = "0" + day;
+                    }
+                    if (month < 10) {
+                        month = "0" + month;
+                    }
+                    // random function to stop stock value from dropping/gaining to much on single day
+                    startValue += Math.round(Math.random() * 20 - 10);
+                    startValue2 += Math.round(Math.random() * 20 - 10);
+                    data.push({ startValue, startValue2 });
+
+                    text +=
+                        year +
+                        "-" +
+                        month +
+                        "-" +
+                        day +
+                        "," +
+                        startValue +
+                        "," +
+                        startValue2 +
+                        "<br>";
+                    date.setDate(date.getDate() + 1);
+                }
+                document.getElementById("stonks").innerHTML = text;
+            }
+        </script>
+    </body>
+</html>
