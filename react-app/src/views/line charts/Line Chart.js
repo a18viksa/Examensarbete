@@ -1,134 +1,120 @@
-import React, { Component } from "react";
-import CanvasJSReact from "../../assets/canvasjs.stock.react";
-var CanvasJSStockChart = CanvasJSReact.CanvasJSStockChart;
+import React, { Component } from 'react';
+import Plotly from "plotly.js-basic-dist";
 
-class LineChart extends Component {
+class Lines extends Component {
 
-	constructor(props) {
-		super(props);
-		this.state = { dataPoints: [], isLoaded: false };
-		//this.state = { dataPoints1: [], isLoaded: false };
-		//this.state = { dataPoints2: [], isLoaded: false };
-	  }
+    constructor(props) {
+        super();
+        this.state = { data: []}
+    }
 
-	componentDidMount() {
-		fetch('aapl.json')
-		  .then(res => res.json())
-		  .then(
-			(data) => {
-			  var dps = [];
-			  for (var i = 0; i < data.length; i++) {
-				dps.push({
-				  x: new Date(data[i].date),
-				  y: Number(data[i].open)
-				});
-			  }
-			  this.setState({
-				isLoaded: true,
-				dataPoints: dps
-			  });
-			}
-		  )
+    componentDidMount() {
+        const endpoint = 'ja.json';
 
-		  fetch('fb.json')
-		  .then(res => res.json())
-		  .then(
-			(data) => {
-			  var dps1 = [];
-			  for (var i = 0; i < data.length; i++) {
-				dps1.push({
-				  x: new Date(data[i].date),
-				  y: Number(data[i].open)
-				});
-			  }
-			  this.setState({
-				isLoaded: true,
-				dataPoints1: dps1
-			  });
-			}
-		  )
+        fetch(endpoint)
+            .then(response => response.json())
+            .then(data => {
+                this.setState({data:data})
+            })
+    }
 
-		  fetch('amzn.json')
-		  .then(res => res.json())
-		  .then(
-			(data) => {
-			  var dps2 = [];
-			  for (var i = 0; i < data.length; i++) {
-				dps2.push({
-				  x: new Date(data[i].date),
-				  y: Number(data[i].open)
-				});
-			  }
-			  this.setState({
-				isLoaded: true,
-				dataPoints2: dps2
-			  });
-			}
-		  )
-	  }
+    addTraces(data) {
+        let traces = [];
 
-  render() {
-    const options = {
-      animationEnabled: true,
-	  zoomEnabled: true,
-	  title:{
-        text:"CanvasJS Line Chart"
-      },
-      theme: "light2",
-	  legend: {
-		cursor: "pointer",
-		fontSize: 16,
-	},
-	toolTip: {
-		enabled: true,
-		shared: true,
-	},
-      charts: [{
-          data: [{
-            type: "line",
-			showInLegend: true,
-			name: "Apple",
-			yValueFormatString: "$####.00",
-            dataPoints : this.state.dataPoints
-          },
-		  {
-			type: "line",
-			showInLegend: true,
-			name: "Facebook",
-			yValueFormatString: "$####.00",
-            dataPoints : this.state.dataPoints1
-		  },
-		  {
-			type: "line",
-			showInLegend: true,
-			name: "Amazon",
-			yValueFormatString: "$####.00",
-            dataPoints : this.state.dataPoints2
-		  },
-		],
-      }],
-      navigator: {
-        slider: {
-          minimum: new Date("2018-02-01"),
-          maximum: new Date("2020-10-27")
+        let dates = [];
+        let lines = {'Facebook': {'y': []},
+                    'Shopify': {'y': []}};
+
+        data.map(each => {
+            dates.push(each.date)
+
+            lines.Facebook.y.push(each.Facebook);
+            lines.Shopify.y.push(each.Shopify);
+        })
+
+        console.log(lines);
+
+        for (const [key, value] of Object.entries(lines)) {
+            traces.push({
+                type: 'scatter',
+                mode: 'lines',
+                x: dates,
+                y: value.y,
+                name: key
+            })
         }
-      }
-    };
-    const containerProps  = {
-      width: "100%",
-      height: "600px"
-    };
 
-    return (
-      <div>
-        <CanvasJSStockChart
-          options={options}
-          containerProps  = {containerProps }
-        />
-      </div>
-    );
-  }
-  
+        return traces;
+    }
+
+
+    render() {
+        return(
+            <div>
+                <Plotly
+                    data = {this.addTraces(this.state.data)}
+                    layout={{ width: 1600,
+                                height: 700,
+                                margin: {
+                                  l: 100,
+                                  r: 50,
+                                  b: 100,
+                                  t: 100,
+                                  pad: 4
+                                },
+                                paper_bgcolor: '#f5f5f5',
+                                title: 'Plotly Line Chart',
+                                xaxis: {
+                                    autorange: true,
+                                    range: ['2000-02-01', '2005-07-23'],
+                                    rangeselector: {buttons: [
+                                        {
+                                          count: 1,
+                                          label: '1m',
+                                          step: 'month',
+                                          stepmode: 'backward'
+                                        },
+                                        {
+                                          count: 3,
+                                          label: '3m',
+                                          step: 'month',
+                                          stepmode: 'backward'
+                                        },
+                                        {
+                                          count: 6,
+                                          label: '6m',
+                                          step: 'month',
+                                          stepmode: 'backward'
+                                        },
+                                        {
+                                          count: 1,
+                                          label: 'YTD',
+                                          step: 'year',
+                                          stepmode: 'todate'
+                                        },
+                                        {
+                                          count: 1,
+                                          label: '1y',
+                                          step: 'year',
+                                          stepmode: 'backward'
+                                        },
+                                        {
+                                          count: 3,
+                                          label: '3y',
+                                          step: 'year',
+                                          stepmode: 'backward'
+                                        },
+
+
+                                        {label: 'All', step: 'all'}
+                                      ]},
+                                    rangeslider: {range: ['2000-02-01', '2005-07-23']},
+                                    type: 'date'
+                                  },}}
+                />
+            </div>
+        )
+    }
 }
 
-export default LineChart;
+export default Lines;
