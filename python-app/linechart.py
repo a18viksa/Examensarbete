@@ -1,22 +1,15 @@
 import plotly.express as px
-import pandas as pd
 import streamlit as st
 import json
-import numpy as np
-
-# stock_data = pd.read_csv("data/testdata.csv")
-# print(stock_data.head())
 
 stock_data = open('data/js.json')
 data = json.load(stock_data)
 
-add_selectbox = st.sidebar.text('hthtryhtrer')
-add_selectbox = st.sidebar.write('her')
+st.sidebar.title('** Dashboard **')
+st.sidebar.write('Line Chart')
+st.sidebar.write('Stocks')
 
-
-
-
-stock_line_chart = px.line(x='date', y=['Facebook','Shopify'], data_frame=data, width=1260, height=700)
+stock_line_chart = px.line(x='date', y=['Bankgang'], data_frame=data, width=800, height=500)
 
 stock_line_chart.update_xaxes(
     rangeslider_visible=True,
@@ -29,22 +22,27 @@ stock_line_chart.update_xaxes(
             dict(count=1, label="1y", step="year", stepmode="backward"),
             dict(count=3, label="3y", step="year", stepmode="backward"),
             dict(label="All", step="all")
+
         ])
     )
 )
 
-st.title('Company Profile')
+st.title('Plotly Line Chart')
 
 st.plotly_chart(stock_line_chart)
 
+st.subheader('Companies included in chart')
+st.markdown('** Company 1 **: ' + 'Bankgang AB')
+#st.markdown('** Company 2 **: ' + 'Shopfund AB')
+#st.markdown('** Company 3 **: ' + 'Lendary AB')
+#st.markdown('** Company 4 **: ' + 'Cashlemon AB')
+#st.markdown('** Company 5 **: ' + 'Helpville AB')
 
-st.subheader('Lorem ipsum')
-st.markdown('** Lorem ipsum **: ' + 'Lorem ipsum')
-st.markdown('** Lorem ipsum **: ' + 'Lorem ipsum')
-st.markdown('** Lorem ipsum **: ' + 'Lorem ipsum')
-st.markdown('** Lorem ipsum **:' + 'Lorem ipsum')
-st.markdown('** Lorem ipsum **: ' + 'Lorem ipsum')
-st.markdown('** Lorem ipsum **')
 st.info('Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum.')
-st.markdown('<style>.stPlotlyChart{left: -10px;}</style>', unsafe_allow_html=True)
-st.markdown('<style>.css-hx4lkt{left: -250px; position: initial}</style>', unsafe_allow_html=True)
+st.markdown('<style>.stPlotlyChart{left: 0px;}</style>', unsafe_allow_html=True)
+st.markdown('<style>.eknhn3m2{left: 0px}</style>', unsafe_allow_html=True)
+#st.markdown('<style>p{color: blue}</style>', unsafe_allow_html=True)
+#st.markdown('<style>h1{color: blue}</style>', unsafe_allow_html=True)
+#st.markdown('<style>.css-1aumxhk{background-image: none; background: #020509}</style>', unsafe_allow_html=True)
+#st.markdown('<style>.css-xq1lnh-EmotionIconBase{color: red}</style>', unsafe_allow_html=True)
+#st.markdown('<style>.e1tzin5v1{left: -100px}</style>', unsafe_allow_html=True)
