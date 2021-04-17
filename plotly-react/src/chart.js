@@ -3,44 +3,40 @@ import Plotly from "plotly.js-basic-dist";
 import createPlotlyComponent from "react-plotly.js/factory";
 const Plot = createPlotlyComponent(Plotly);
 
-export default class Lines extends Component {
+class PlotlyLineChart extends Component {
 
     constructor(props) {
-        super();
+        super(props);
         this.state = { data: []}
     }
 
     componentDidMount() {
-        const endpoint = 'jay.json';
+
+        const endpoint = 'data.json';
 
         fetch(endpoint)
             .then(response => response.json())
             .then(data => {
                 this.setState({data:data})
             })
-    }
+            }
 
     addTraces(data) {
         let traces = [];
+        let date = [];
+        let company = {'Bankgang': {'y': []}};
 
-        let dates = [];
-        let lines = {'Facebook': {'y': []},
-                    'Shopify': {'y': []}};
+        data.forEach(e => {
+            date.push(e.date)
 
-        data.map(each => {
-            dates.push(each.date)
-
-            lines.Facebook.y.push(each.Facebook);
-            lines.Shopify.y.push(each.Shopify);
+            company.Bankgang.y.push(e.Bankgang);
         })
 
-        console.log(lines);
-
-        for (const [key, value] of Object.entries(lines)) {
+        for (const [key, value] of Object.entries(company)) {
             traces.push({
                 type: 'scatter',
                 mode: 'lines',
-                x: dates,
+                x: date,
                 y: value.y,
                 name: key
             })
@@ -56,16 +52,16 @@ export default class Lines extends Component {
                 <Plot
                     data = {this.addTraces(this.state.data)}
                     layout={{ width: 1600,
-                                height: 700,
+                                height: 800,
                                 margin: {
-                                  l: 100,
+                                  l: 300,
                                   r: 50,
                                   b: 100,
-                                  t: 100,
+                                  t: 150,
                                   pad: 4
                                 },
+
                                 paper_bgcolor: '#f5f5f5',
-                                title: 'Plotly Line Chart',
                                 xaxis: {
                                     autorange: true,
                                     range: ['2000-02-01', '2005-07-23'],
@@ -107,7 +103,6 @@ export default class Lines extends Component {
                                           stepmode: 'backward'
                                         },
 
-
                                         {label: 'All', step: 'all'}
                                       ]},
                                     rangeslider: {range: ['2000-02-01', '2005-07-23']},
@@ -115,6 +110,9 @@ export default class Lines extends Component {
                                   },}}
                 />
             </div>
+            
         )
     }
 }
+
+export default PlotlyLineChart;
