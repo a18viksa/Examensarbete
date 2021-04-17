@@ -1,13 +1,12 @@
 import './App.css';
-import Lines from './chart';
+import PlotlyLineChart from './chart';
 import Sidebar from './components/sidebar/sidebar';
 
 function App() {
   return (
     <div className="container">
       <Sidebar/>
-      <Lines/>
-      
+      <PlotlyLineChart/>
     </div>
   );
 }
