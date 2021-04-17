@@ -1,52 +1,52 @@
 import "./sidebar.css"
-import React, { Component } from 'react';
+import React from 'react';
 
-const Sidebar = ({sidebarOpen, closeSidebar}) => {
+const Sidebar = () => {
     return(
-        <div className={sidebarOpen ? "sidebar-responsive" : ""} id="sidebar">
+        <div className="sidebar" id="sidebar">
             <div className="sidebar_title">
                 <h1>Dashboard</h1>
             </div>
 
             <div className="sidebar_menu">
                 <div className="sidebar_link active_menu_link">
-                    <a href="/chart">Line Chart</a>
+                    <a href="/">Line Chart</a>
                 </div>
                 <h2>STOCKS</h2>
                 <div className="sidebar_link">
-                    <a href="#">Facebook</a>
+                    <a href="/">Facebook</a>
                 </div>
                 <div className="sidebar_link">
-                    <a href="#">Apple</a>
+                    <a href="/">Apple</a>
                 </div>
                 <div className="sidebar_link">
-                    <a href="#">Amazon.com</a>
+                    <a href="/">Amazon.com</a>
                 </div>
                 <div className="sidebar_link">
-                    <a href="#">Shopify</a>
+                    <a href="/">Shopify</a>
                 </div>
                 <div className="sidebar_link">
-                    <a href="#">Microsoft</a>
+                    <a href="/">Microsoft</a>
                 </div>
                 <div className="sidebar_link">
-                    <a href="#">Tesla</a>
+                    <a href="/">Tesla</a>
                 </div>
                 <h2>FINANCIALS</h2>
                 <div className="sidebar_link">
-                    <a href="#">Revenue Growth</a>
+                    <a href="/">Revenue Growth</a>
                 </div>
                 <div className="sidebar_link">
-                    <a href="#">Gross Profit Margin</a>
+                    <a href="/">Gross Profit Margin</a>
                 </div>
                 <div className="sidebar_link">
-                    <a href="#">Free Cashflow Margin</a>
+                    <a href="/">Free Cashflow Margin</a>
                 </div>
                 <h2>INFORMATION</h2>
                 <div className="sidebar_link">
-                    <a href="#">How To</a>
+                    <a href="/">How To</a>
                 </div>
                 <div className="sidebar_link">
-                    <a href="#">Contact</a>
+                    <a href="/">Contact</a>
                 </div>
                 
 
