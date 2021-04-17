@@ -8,15 +8,13 @@
         <script>
             var date = new Date(2000, 01, 01);
             function createStockData() {
-                var maxDataPoints = 10000;
                 // set number of datapoints to generate
-                var startValue = 100;
-                var startValue2 = 200;
-                var startValue3 = 150;
-                var startValue4 = 300;
-                var startValue5 = 85;
+                var maxDataPoints = 10000;
+
                 // change startValue of every stock for randomness.
                 // ex. goog = 348, aapl = 145 etc.
+                var startValue = 100;
+
                 var text = "";
                 for (var i = 0; i < maxDataPoints; i++) {
                     var data = [];
@@ -32,16 +30,8 @@
                     }
                     // random function to stop stock value from dropping/gaining to much on single day
                     startValue += Math.round(Math.random() * 20 - 10);
-                    startValue2 += Math.round(Math.random() * 20 - 10);
-                    startValue3 += Math.round(Math.random() * 20 - 10);
-                    startValue4 += Math.round(Math.random() * 20 - 10);
-                    startValue5 += Math.round(Math.random() * 20 - 10);
                     data.push({
                         startValue,
-                        startValue2,
-                        startValue3,
-                        startValue4,
-                        startValue5,
                     });
 
                     text +=
@@ -52,14 +42,6 @@
                         day +
                         "," +
                         startValue +
-                        "," +
-                        startValue2 +
-                        "," +
-                        startValue3 +
-                        "," +
-                        startValue4 +
-                        "," +
-                        startValue5 +
                         "<br>";
                     date.setDate(date.getDate() + 1);
                 }
