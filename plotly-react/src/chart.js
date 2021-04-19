@@ -5,6 +5,7 @@ const Plot = createPlotlyComponent(Plotly);
 
 class PlotlyLineChart extends Component {
 
+    // initializing local state by assigning data to this.state
     constructor(props) {
         super(props);
         this.state = { data: []}
@@ -14,8 +15,11 @@ class PlotlyLineChart extends Component {
 
         const endpoint = 'data.json';
 
+        // data gets fetched from the variable endpoint containing the json
         fetch(endpoint)
+            // getting response from api
             .then(response => response.json())
+            // updating state
             .then(data => {
                 this.setState({data:data})
             })
@@ -24,14 +28,16 @@ class PlotlyLineChart extends Component {
     addTraces(data) {
         let traces = [];
         let date = [];
+        // company takes Bg from json and assigns it to the y-axis thus displaying data in graph
         let company = {'Bg': {'y': []}};
 
+        // pushing data from json to trace
         data.forEach(e => {
             date.push(e.date)
-
             company.Bg.y.push(e.Bg);
         })
 
+        // object.entries returning array of [key, value]
         for (const [key, value] of Object.entries(company)) {
             traces.push({
                 type: 'scatter',
@@ -50,6 +56,7 @@ class PlotlyLineChart extends Component {
         return(
             <div>
                 <Plot
+                    // adding trace consisting of this.state from the constructor
                     data = {this.addTraces(this.state.data)}
                     layout={{ width: 1400,
                                 height: 800,
