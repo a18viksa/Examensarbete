@@ -19,17 +19,17 @@ class PlotlyLineChart extends Component {
             .then(data => {
                 this.setState({data:data})
             })
-            }
+    }
 
     addTraces(data) {
         let traces = [];
         let date = [];
-        let company = {'Bankgang': {'y': []}};
+        let company = {'Bg': {'y': []}};
 
         data.forEach(e => {
             date.push(e.date)
 
-            company.Bankgang.y.push(e.Bankgang);
+            company.Bg.y.push(e.Bg);
         })
 
         for (const [key, value] of Object.entries(company)) {
@@ -51,7 +51,7 @@ class PlotlyLineChart extends Component {
             <div>
                 <Plot
                     data = {this.addTraces(this.state.data)}
-                    layout={{ width: 1600,
+                    layout={{ width: 1400,
                                 height: 800,
                                 margin: {
                                   l: 300,
@@ -61,7 +61,7 @@ class PlotlyLineChart extends Component {
                                   pad: 4
                                 },
 
-                                paper_bgcolor: '#f5f5f5',
+                                paper_bgcolor: '#f8f8f8',
                                 xaxis: {
                                     autorange: true,
                                     range: ['2000-02-01', '2005-07-23'],
