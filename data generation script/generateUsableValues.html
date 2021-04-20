@@ -9,19 +9,18 @@
             var date = new Date(2000, 01, 01);
             function createStockData() {
                 // set number of datapoints to generate
-                var maxDataPoints = 10000;
-
-                // change startValue of every stock for randomness.
-                // ex. goog = 348, aapl = 145 etc.
-                var startValue = 100;
-
+                var maxDataPoints = 100;
+                // change start value of variable company for randomness
+                var company = 100;
                 var text = "";
+
                 for (var i = 0; i < maxDataPoints; i++) {
                     var data = [];
                     var day = date.getDate() + 0;
                     var month = date.getMonth() + 1;
                     var year = date.getFullYear();
 
+                    // if-statements that puts 0 before values under 10 to mimic real dates
                     if (day < 10) {
                         day = "0" + day;
                     }
@@ -33,7 +32,7 @@
                     data.push({
                         startValue,
                     });
-
+                    // layout of date and company value for easy transformation to json
                     text +=
                         year +
                         "-" +
