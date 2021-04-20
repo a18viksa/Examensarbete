@@ -28,20 +28,13 @@
                         month = "0" + month;
                     }
                     // random function to stop stock value from dropping/gaining to much on single day
-                    startValue += Math.round(Math.random() * 20 - 10);
+                    company += Math.round(Math.random() * 20 - 10);
                     data.push({
-                        startValue,
+                        company,
                     });
                     // layout of date and company value for easy transformation to json
                     text +=
-                        year +
-                        "-" +
-                        month +
-                        "-" +
-                        day +
-                        "," +
-                        startValue +
-                        "<br>";
+                        year + "-" + month + "-" + day + "," + company + "<br>";
                     date.setDate(date.getDate() + 1);
                 }
                 document.getElementById("stonks").innerHTML = text;
