@@ -18,8 +18,8 @@
 
         let iterations = parseInt(localStorage.getItem("iterations"));
         let counter = parseInt(localStorage.getItem("counter"));
-        let data1=localStorage.getItem("theData");
-        let data = parseInt(localStorage.getItem("startData"));
+        let startData = parseInt(localStorage.getItem("startData"));
+        let endData=localStorage.getItem("endData");
 
         let measurement = new Date();
         measurement = measurement.getTime();
@@ -31,14 +31,14 @@
             old = old.setTime(localStorage.getItem("value"));
             var delta = measurement - old;
 
-            data = localStorage.getItem("startData");
-            data1+= delta+"\n";
-            data +=  delta + "\n";
+            startData = localStorage.getItem("startData");
+            endData+= delta+"\n";
+            startData +=  delta + "\n";
 
             // Increase counter and save data to local storage
             counter++;
             localStorage.setItem("counter", counter);
-            localStorage.setItem("startData", data);
+            localStorage.setItem("startData", startData);
             localStorage.setItem("value",measurement);
 
             window.location.assign('http://localhost:8501/');
