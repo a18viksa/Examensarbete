@@ -23,18 +23,27 @@ class PlotlyLineChart extends Component {
             .then(data => {
                 this.setState({data:data})
             })
+            performanceMeasure();
     }
 
     addTraces(data) {
         let traces = [];
         let date = [];
         // company takes Bg from json and assigns it to the y-axis thus displaying data in graph
-        let company = {'Bg': {'y': []}};
+        let company = {'bg': {'y': []},
+                      'bg2': {'y': []},
+                      'bg3': {'y': []},
+                      'bg4': {'y': []},
+                      'bg5': {'y': []}};
 
         // pushing data from json to trace
         data.forEach(e => {
             date.push(e.date)
-            company.Bg.y.push(e.Bg);
+            company.bg.y.push(e.bg);
+            company.bg2.y.push(e.bg2);
+            company.bg3.y.push(e.bg3);
+            company.bg4.y.push(e.bg4);
+            company.bg5.y.push(e.bg5);
         })
 
         // object.entries returning array of [key, value]
@@ -120,6 +129,16 @@ class PlotlyLineChart extends Component {
             
         )
     }
+}
+
+function performanceMeasure() {
+    let measurement = new Date();
+    let endData = localStorage.getItem("endData");
+      measurement = measurement.getTime();
+      endData = localStorage.getItem("endData");
+      endData += measurement + "\n";
+    
+    localStorage.setItem("endData", endData);
 }
 
 export default PlotlyLineChart;
