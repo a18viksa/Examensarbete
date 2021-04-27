@@ -5,11 +5,7 @@ import json
 stock_data = open('data/ja.json')
 data = json.load(stock_data)
 
-st.sidebar.title('** Dashboard **')
-st.sidebar.write('Line Chart')
-st.sidebar.write('Stocks')
-
-stock_line_chart = px.line(x='date', y=['bg', 'bg2', 'bg3', 'bg4', 'bg5'], data_frame=data, width=800, height=500)
+stock_line_chart = px.line(x='date', y=['bg'], data_frame=data)
 
 stock_line_chart.update_xaxes(
     rangeslider_visible=True,
