@@ -30,20 +30,12 @@ class PlotlyLineChart extends Component {
         let traces = [];
         let date = [];
         // company takes Bg from json and assigns it to the y-axis thus displaying data in graph
-        let company = {'bg': {'y': []},
-                      'bg2': {'y': []},
-                      'bg3': {'y': []},
-                      'bg4': {'y': []},
-                      'bg5': {'y': []}};
+        let company = {'bg': {'y': []}};
 
         // pushing data from json to trace
         data.forEach(e => {
             date.push(e.date)
             company.bg.y.push(e.bg);
-            company.bg2.y.push(e.bg2);
-            company.bg3.y.push(e.bg3);
-            company.bg4.y.push(e.bg4);
-            company.bg5.y.push(e.bg5);
         })
 
         // object.entries returning array of [key, value]

@@ -14,39 +14,39 @@ const Sidebar = () => {
                 </div>
                 <h2>STOCKS</h2>
                 <div className="sidebar_link">
-                    <a href="/">Facebook</a>
+                    <a href="/">Lorem ipsum</a>
                 </div>
                 <div className="sidebar_link">
-                    <a href="/">Apple</a>
+                    <a href="/">Lorem ipsum</a>
                 </div>
                 <div className="sidebar_link">
-                    <a href="/">Amazon.com</a>
+                    <a href="/">Lorem ipsum</a>
                 </div>
                 <div className="sidebar_link">
-                    <a href="/">Shopify</a>
+                    <a href="/">Lorem ipsum</a>
                 </div>
                 <div className="sidebar_link">
-                    <a href="/">Microsoft</a>
+                    <a href="/">Lorem ipsum</a>
                 </div>
                 <div className="sidebar_link">
-                    <a href="/">Tesla</a>
+                    <a href="/">Lorem ipsum</a>
                 </div>
                 <h2>FINANCIALS</h2>
                 <div className="sidebar_link">
-                    <a href="/">Revenue Growth</a>
+                    <a href="/">Lorem ipsum dolor sit amet</a>
                 </div>
                 <div className="sidebar_link">
-                    <a href="/">Gross Profit Margin</a>
+                    <a href="/">Lorem ipsum dolor sit amet</a>
                 </div>
                 <div className="sidebar_link">
-                    <a href="/">Free Cashflow Margin</a>
+                    <a href="/">Lorem ipsum dolor sit amet</a>
                 </div>
                 <h2>INFORMATION</h2>
                 <div className="sidebar_link">
-                    <a href="/">How To</a>
+                    <a href="/">Lorem ipsum dolor</a>
                 </div>
                 <div className="sidebar_link">
-                    <a href="/">Contact</a>
+                    <a href="/">Lorem ipsum dolor</a>
                 </div>
                 
 
