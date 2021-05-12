@@ -25,28 +25,22 @@ const Sidebar = () => {
                 <div className="sidebar_link">
                     <a href="/">Lorem ipsum</a>
                 </div>
-                <div className="sidebar_link">
-                    <a href="/">Lorem ipsum</a>
-                </div>
-                <div className="sidebar_link">
-                    <a href="/">Lorem ipsum</a>
-                </div>
                 <h2>FINANCIALS</h2>
                 <div className="sidebar_link">
-                    <a href="/">Lorem ipsum dolor sit amet</a>
+                    <a href="/">Lorem ipsum</a>
                 </div>
                 <div className="sidebar_link">
-                    <a href="/">Lorem ipsum dolor sit amet</a>
+                    <a href="/">Lorem ipsum</a>
                 </div>
                 <div className="sidebar_link">
-                    <a href="/">Lorem ipsum dolor sit amet</a>
+                    <a href="/">Lorem ipsum</a>
                 </div>
                 <h2>INFORMATION</h2>
                 <div className="sidebar_link">
-                    <a href="/">Lorem ipsum dolor</a>
+                    <a href="/">Lorem ipsum</a>
                 </div>
                 <div className="sidebar_link">
-                    <a href="/">Lorem ipsum dolor</a>
+                    <a href="/">Lorem ipsum</a>
                 </div>
                 
 
