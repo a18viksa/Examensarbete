@@ -52,7 +52,6 @@ class PlotlyLineChart extends Component {
         return traces;
     }
 
-
     render() {
         return(
             <div>

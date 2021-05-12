@@ -12,15 +12,6 @@
                 var maxDataPoints = 10000;
                 // change start value of variable company for randomness
                 var company = 400;
-                var company2 = 350;
-                var company3 = 250;
-                var company4 = 200;
-                var company5 = 500;
-                //var company6 = 120;
-                //var company7 = 280;
-                //var company8 = 230;
-                //var company9 = 600;
-                //var company10 = 450;
                 var text = "";
 
                 for (var i = 0; i < maxDataPoints; i++) {
@@ -38,21 +29,8 @@
                     }
                     // random function to stop stock value from dropping/gaining to much on single day
                     company += Math.round(Math.random() * 20 - 10);
-                    company2 += Math.round(Math.random() * 20 - 10);
-                    company3 += Math.round(Math.random() * 20 - 10);
-                    company4 += Math.round(Math.random() * 20 - 10);
-                    company5 += Math.round(Math.random() * 20 - 10);
-                    //company6 += Math.round(Math.random() * 20 - 10);
-                    //company7 += Math.round(Math.random() * 20 - 10);
-                    //company8 += Math.round(Math.random() * 20 - 10);
-                    //company9 += Math.round(Math.random() * 20 - 10);
-                    // company10 += Math.round(Math.random() * 20 - 10);
                     data.push({
-                        company,
-                        company2,
-                        company3,
-                        company4,
-                        company5,
+                        company
                     });
                     // layout of date and company value for easy transformation to json
                     text +=
