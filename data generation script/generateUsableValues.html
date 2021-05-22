@@ -9,9 +9,13 @@
             var date = new Date(2000, 01, 01);
             function createStockData() {
                 // set number of datapoints to generate
-                var maxDataPoints = 10000;
+                var maxDataPoints = 50000;
                 // change start value of variable company for randomness
                 var company = 400;
+                var company2 = 200;
+                var company3 = 100;
+                var company4 = 600;
+                var company5 = 550;
                 var text = "";
 
                 for (var i = 0; i < maxDataPoints; i++) {
@@ -29,8 +33,12 @@
                     }
                     // random function to stop stock value from dropping/gaining to much on single day
                     company += Math.round(Math.random() * 20 - 10);
+                    company2 += Math.round(Math.random() * 20 - 10);
+                    company3 += Math.round(Math.random() * 20 - 10);
+                    company4 += Math.round(Math.random() * 20 - 10);
+                    company5 += Math.round(Math.random() * 20 - 10);
                     data.push({
-                        company
+                        company,
                     });
                     // layout of date and company value for easy transformation to json
                     text +=
